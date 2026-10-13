@@ -1,0 +1,29 @@
+flowchart TB
+    R_START["最终目标：500桶远古水果果酒"]
+    subgraph R_BASE["基础准备并行推进"]
+        direction LR
+        R_FARM["筹款田与耕种经验"]
+        R_METAL["铜铁煤木材与冶炼"]
+        R_RESIN["橡树与树液采集器"]
+        R_SEED["社区中心与远古种子"]
+    end
+    R_START --> R_BASE
+    R_FARM --> R_XP["耕种6级：优质洒水器"]
+    R_XP --> R_GATE{"耕种8级及批次材料和果源齐备？"}
+    R_METAL --> R_GATE
+    R_RESIN --> R_GATE
+    R_GATE -->|否| R_PREP["继续补最短缺的环节"]
+    R_PREP --> R_BASE
+    R_GATE -->|是| R_10["首批10桶真实制作与装料"]
+    R_10 --> R_CASH["取成品 出货 次晨核对收入"]
+    R_CASH --> R_120["逐批扩到30桶和120桶"]
+    R_SEED --> R_BREED["种子生产器与远古果源扩繁"]
+    R_BREED --> R_SUPPLY["温室 室外灌溉田与跨季库存"]
+    R_120 --> R_FINAL{"500桶与足量远古果源都已落实？"}
+    R_SUPPLY --> R_FINAL
+    R_FINAL -->|否| R_EXPAND["补齐种子 土地 设备和缓冲"]
+    R_EXPAND --> R_FINAL
+    R_FINAL -->|是| R_VERIFY["连续两轮原生装果 取酒 出货 入账"]
+    R_VERIFY --> R_ACCEPT{"生产销售与持续供给均验证？"}
+    R_ACCEPT -->|否| R_VERIFY
+    R_ACCEPT -->|是| R_DONE["生产目标通过验收"]

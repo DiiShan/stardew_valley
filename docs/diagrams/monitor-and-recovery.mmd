@@ -1,0 +1,24 @@
+flowchart TB
+    M_TICK["每300秒读取完整证据"]
+    M_TICK --> M_CLASSIFY{"核对控制权并分类"}
+    M_CLASSIFY -->|玩家接管| M_HOLD["保持暂停 只读或离线修复"]
+    M_CLASSIFY -->|正常活动或等待| M_WAIT["核实完成条件与后续进展"]
+    M_CLASSIFY -->|进程或状态不明| M_KEEP["保留现场 不自动重启"]
+    M_CLASSIFY -->|剧情目标决策| M_STORY["核实真实选项 按目标决策"]
+    M_CLASSIFY -->|故障明确且自动化控制| M_FIX["最小修复 编译与有意义的检查"]
+    M_FIX --> M_PASS{"检查通过？"}
+    M_PASS -->|否| M_FIX
+    M_PASS -->|是| M_OWNER{"仍有授权且无新接管？"}
+    M_OWNER -->|否| M_HOLD
+    M_OWNER -->|是| M_SAVE["原生存所有非工具 回家睡觉保存"]
+    M_SAVE --> M_SAFE{"存档 库存和所有木箱一致？"}
+    M_SAFE -->|否| M_UNSAVED["保留现场 不杀未保存进程"]
+    M_SAFE -->|是| M_LOAD["安全加载 单一游戏实例"]
+    M_LOAD --> M_VERIFY["核对加载版本和真实动作恢复"]
+    M_HOLD --> M_RECORD["记录证据与结果"]
+    M_WAIT --> M_RECORD
+    M_KEEP --> M_RECORD
+    M_STORY --> M_RECORD
+    M_UNSAVED --> M_RECORD
+    M_VERIFY --> M_RECORD
+    M_RECORD --> M_NEXT["等待下一轮五分钟采样"]

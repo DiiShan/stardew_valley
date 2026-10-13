@@ -1,0 +1,19 @@
+flowchart TB
+    D_START["读取真实状态与控制记录"]
+    D_START --> D_OWNER{"玩家接管或暂停？"}
+    D_OWNER -->|是| D_HOLD["保持暂停和只读监控 明确继续后重入流程"]
+    D_OWNER -->|否| D_SAFE{"生命 体力 时间和容量安全？"}
+    D_SAFE -->|否| D_RETURN["退出危险区域 返回农场"]
+    D_RETURN --> D_STORE["存入全部非工具物品"]
+    D_STORE --> D_REST{"需要休息或保存？"}
+    D_REST -->|是| D_SLEEP["原生回家睡觉保存"]
+    D_SLEEP --> D_MORNING["次晨核对存档与出货收入"]
+    D_REST -->|否| D_NEXT["记录结果 下一步重新检查状态"]
+    D_MORNING --> D_NEXT
+    D_SAFE -->|是| D_FARM["照料 收获 核实可负担补种"]
+    D_FARM --> D_RESERVE["保留献祭扩繁和加工原料"]
+    D_RESERVE --> D_SHIP["多余收成原生出货"]
+    D_SHIP --> D_MACHINE["收取成熟成品并装料机器"]
+    D_MACHINE --> D_RESOURCE["按缺口执行采矿 树脂 木材 解锁或设备任务"]
+    D_RESOURCE --> D_VERIFY["复核真实动作回执"]
+    D_VERIFY --> D_NEXT
