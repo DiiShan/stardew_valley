@@ -1,0 +1,192 @@
+{
+  "game_version": "1.6.15 build 24356",
+  "source_kind": "native base-game assets",
+  "assets": [
+    {
+      "asset": "Data/AdditionalFarms",
+      "sha256": "225428d9689bab67774f2491c0353202eb45f8a8999e51ae6e018f2f38616005",
+      "bytes": 400
+    },
+    {
+      "asset": "Data/AdditionalWallpaperFlooring",
+      "sha256": "fd6159e48c67203c847f0a9d3e1b769a16b252a092826503124080d9c9bebc66",
+      "bytes": 318
+    },
+    {
+      "asset": "Data/BigCraftables",
+      "sha256": "e0e23b6427474a57ab331d00a6c9e8f3b97453930ff75b1eb31eb14453c42889",
+      "bytes": 4162
+    },
+    {
+      "asset": "Data/Boots",
+      "sha256": "f6880fb49cf5ccbddd0f30487ff2d278ac02688bf557838f04c4d2e0b958f52f",
+      "bytes": 1000
+    },
+    {
+      "asset": "Data/Buildings",
+      "sha256": "1917de8574cfab091c3e40dbb6cf8243f09066a53cc41b08bd1e67f7f4ed3290",
+      "bytes": 3696
+    },
+    {
+      "asset": "Data/Bundles",
+      "sha256": "b259e6ebc4654c6d560e0716d57be3e65f60d3b8726b9f55654be66e3d4073ec",
+      "bytes": 1252
+    },
+    {
+      "asset": "Data/Bundles.zh-CN",
+      "sha256": "26728b0527936c93c560a4b8d27ba7116590910c4f6c692613de8ec2042d145a",
+      "bytes": 1426
+    },
+    {
+      "asset": "Data/Characters",
+      "sha256": "3b9519bf4887b557fb73c68834871c16755616a7ef26d84dc0bdbd95447f64a8",
+      "bytes": 4572
+    },
+    {
+      "asset": "Data/CookingRecipes",
+      "sha256": "1773c16e1e23ab752f8e0a6ee991ef44156b2e13d477df74c057ac0d3bcb05a4",
+      "bytes": 2092
+    },
+    {
+      "asset": "Data/CraftingRecipes",
+      "sha256": "a2dd8a285ca7cae1c85dfd5ffde8924e84c66db734b49cb50e6fb21b07b9b763",
+      "bytes": 3362
+    },
+    {
+      "asset": "Data/Crops",
+      "sha256": "f8a4479265a9218badf47d3324bfe6f2be3f0ede453cb06db278cf77721aa4c8",
+      "bytes": 1608
+    },
+    {
+      "asset": "Data/FarmAnimals",
+      "sha256": "84fbcb80e492b6c2c6e09f16a1d4d92bbb1081fee917ebfd6297be3c4815be65",
+      "bytes": 1938
+    },
+    {
+      "asset": "Data/Fences",
+      "sha256": "02b6a9156e774c9fa27dd98eaf79fdc3506501fef677cf65636cc86db719befa",
+      "bytes": 526
+    },
+    {
+      "asset": "Data/Festivals/FestivalDates",
+      "sha256": "87aaae22883c6539ab1e403804c59647c36c0e0a0e4df91e4fd4a5c72cb6bf44",
+      "bytes": 374
+    },
+    {
+      "asset": "Data/Fish",
+      "sha256": "d53d4d47dcab5e36c8510a685e857858b764604238e6bcdb829652771074c037",
+      "bytes": 1906
+    },
+    {
+      "asset": "Data/FloorsAndPaths",
+      "sha256": "9b67e0b80185e49481f9f98bce963f1b7ff3ba4c7b1f7faa08745db71231b679",
+      "bytes": 668
+    },
+    {
+      "asset": "Data/FruitTrees",
+      "sha256": "e9d8eb03613068fd244067539acac74546ec1ddd7461f922416b331444744f73",
+      "bytes": 798
+    },
+    {
+      "asset": "Data/Furniture",
+      "sha256": "00bc6a6058947cca29579b441a2bee328ef91d8ce64782069a36553327c1583f",
+      "bytes": 11428
+    },
+    {
+      "asset": "Data/GiantCrops",
+      "sha256": "bb84916d88ba438ac7917e28ba0c2930441540edc5bac1a934dd1cc9c1996d72",
+      "bytes": 730
+    },
+    {
+      "asset": "Data/hats",
+      "sha256": "fcbd1e5c35358333d73d27fab746484b96ee900359963045b037a398b7b6f3d9",
+      "bytes": 4402
+    },
+    {
+      "asset": "Data/hats.zh-CN",
+      "sha256": "54459ba38f45800bcbd47aa29ea838a09c10f7199274bcfb4c3183254fa526b8",
+      "bytes": 5222
+    },
+    {
+      "asset": "Data/HomeRenovations",
+      "sha256": "c535c9fc2fcef20cf9a4f74656130300f17e9ac37a954a3b7053e4494f9654aa",
+      "bytes": 1172
+    },
+    {
+      "asset": "Data/LocationContexts",
+      "sha256": "4dad0d69bae21208591ad378d091491238833a6ce06e51be8c9026f14f2f3fa4",
+      "bytes": 1384
+    },
+    {
+      "asset": "Data/Locations",
+      "sha256": "adb0e19de4c88a03543454d7ed10ef281a1ee27c1ee76c657eee8008ccd8be49",
+      "bytes": 7414
+    },
+    {
+      "asset": "Data/Machines",
+      "sha256": "d77e939ec715634fe2f77506d55e8c21f701ef7ff6447f9048c677929ebc84e4",
+      "bytes": 4530
+    },
+    {
+      "asset": "Data/Monsters",
+      "sha256": "0dc0afa9c7af584291ef2fd1f81d49997ba7f5daaac2fe97df4f2d0f154a7afb",
+      "bytes": 1798
+    },
+    {
+      "asset": "Data/Monsters.zh-CN",
+      "sha256": "7bd620d9aa065cccc37592dc9b475a7fc6016a65131c5e98ab6869b01fdf06ce",
+      "bytes": 2108
+    },
+    {
+      "asset": "Data/Objects",
+      "sha256": "f29fcd49bc979537645ea0dd8735c53acb39e3b8299d9ee8258ad33c4822ff30",
+      "bytes": 23772
+    },
+    {
+      "asset": "Data/Pants",
+      "sha256": "62feb36593e7238c06cb83616dfe235b8f5e99ea8b15a5fb97d82be000e43804",
+      "bytes": 832
+    },
+    {
+      "asset": "Data/PassiveFestivals",
+      "sha256": "84f960728e3ceed666c2aa0a5fd173fa0483f69d76052bf2da45485c946229ae",
+      "bytes": 620
+    },
+    {
+      "asset": "Data/Pets",
+      "sha256": "be3df20caa54fc05a445c8881cdf051af6d5de0c90318422aee66d8ab2f1949f",
+      "bytes": 2360
+    },
+    {
+      "asset": "Data/Shirts",
+      "sha256": "f7853b9cb4612accea8b0aa6585a88fb6fa0853643ec81748a88b51964a9d08e",
+      "bytes": 5232
+    },
+    {
+      "asset": "Data/Shops",
+      "sha256": "dcdc84318f1025b4a200764de11b42368a0ffe0391ca69955e2b941b36d23d48",
+      "bytes": 14934
+    },
+    {
+      "asset": "Data/Tools",
+      "sha256": "86a85235a08d9056d53fd7622ae871ce0f56fbc465415c99364e0932f7a14c97",
+      "bytes": 1590
+    },
+    {
+      "asset": "Data/Trinkets",
+      "sha256": "d231c496f3a7480898900a0ebc87c09929d5208286959da5d3bdc8be77bfa39d",
+      "bytes": 694
+    },
+    {
+      "asset": "Data/Weapons",
+      "sha256": "1d7f1c2ce413bb92b28d7282c0f288dec351b05d317efaf778f30e30e671579e",
+      "bytes": 2738
+    },
+    {
+      "asset": "Data/WildTrees",
+      "sha256": "11a3317bf6a5e3c5d301ec45a5c26812060f46f655c423dbf39861a73b6588d2",
+      "bytes": 1516
+    }
+  ],
+  "published_raw_assets": false
+}

@@ -1,0 +1,968 @@
+{
+  "version": "1.6.15 build 24356",
+  "buildings": [
+    {
+      "id": "Junimo Hut",
+      "name": "祝尼魔屋",
+      "gold": 20000,
+      "days": 0,
+      "materials": [
+        {
+          "id": "(O)390",
+          "name": "石头",
+          "count": 200
+        },
+        {
+          "id": "(O)268",
+          "name": "杨桃",
+          "count": 9
+        },
+        {
+          "id": "(O)771",
+          "name": "纤维",
+          "count": 100
+        }
+      ],
+      "upgrade_from": null,
+      "condition": null,
+      "builder": "Wizard",
+      "size": {
+        "X": 3,
+        "Y": 2
+      },
+      "occupants": null,
+      "raw_max_occupants": 20,
+      "animal_types": [],
+      "special": "巫师建筑需先完成相关任务解锁建筑菜单"
+    },
+    {
+      "id": "Earth Obelisk",
+      "name": "土之图腾柱",
+      "gold": 500000,
+      "days": 0,
+      "materials": [
+        {
+          "id": "(O)337",
+          "name": "铱锭",
+          "count": 10
+        },
+        {
+          "id": "(O)86",
+          "name": "地晶",
+          "count": 10
+        }
+      ],
+      "upgrade_from": null,
+      "condition": null,
+      "builder": "Wizard",
+      "size": {
+        "X": 3,
+        "Y": 2
+      },
+      "occupants": null,
+      "raw_max_occupants": 20,
+      "animal_types": [],
+      "special": "巫师建筑需先完成相关任务解锁建筑菜单"
+    },
+    {
+      "id": "Water Obelisk",
+      "name": "水之图腾柱",
+      "gold": 500000,
+      "days": 0,
+      "materials": [
+        {
+          "id": "(O)337",
+          "name": "铱锭",
+          "count": 5
+        },
+        {
+          "id": "(O)372",
+          "name": "蛤",
+          "count": 10
+        },
+        {
+          "id": "(O)393",
+          "name": "珊瑚",
+          "count": 10
+        }
+      ],
+      "upgrade_from": null,
+      "condition": null,
+      "builder": "Wizard",
+      "size": {
+        "X": 3,
+        "Y": 2
+      },
+      "occupants": null,
+      "raw_max_occupants": 20,
+      "animal_types": [],
+      "special": "巫师建筑需先完成相关任务解锁建筑菜单"
+    },
+    {
+      "id": "Desert Obelisk",
+      "name": "沙漠图腾柱",
+      "gold": 1000000,
+      "days": 0,
+      "materials": [
+        {
+          "id": "(O)337",
+          "name": "铱锭",
+          "count": 20
+        },
+        {
+          "id": "(O)88",
+          "name": "椰子",
+          "count": 10
+        },
+        {
+          "id": "(O)90",
+          "name": "仙人掌果子",
+          "count": 10
+        }
+      ],
+      "upgrade_from": null,
+      "condition": null,
+      "builder": "Wizard",
+      "size": {
+        "X": 3,
+        "Y": 2
+      },
+      "occupants": null,
+      "raw_max_occupants": 20,
+      "animal_types": [],
+      "special": "巫师建筑需先完成相关任务解锁建筑菜单"
+    },
+    {
+      "id": "Island Obelisk",
+      "name": "姜岛图腾柱",
+      "gold": 1000000,
+      "days": 0,
+      "materials": [
+        {
+          "id": "(O)337",
+          "name": "铱锭",
+          "count": 10
+        },
+        {
+          "id": "(O)852",
+          "name": "龙牙",
+          "count": 10
+        },
+        {
+          "id": "(O)91",
+          "name": "香蕉",
+          "count": 10
+        }
+      ],
+      "upgrade_from": null,
+      "condition": "PLAYER_HAS_MAIL Any Visited_Island",
+      "builder": "Wizard",
+      "size": {
+        "X": 3,
+        "Y": 2
+      },
+      "occupants": null,
+      "raw_max_occupants": 20,
+      "animal_types": [],
+      "special": "巫师建筑需先完成相关任务解锁建筑菜单"
+    },
+    {
+      "id": "Gold Clock",
+      "name": "黄金时钟",
+      "gold": 10000000,
+      "days": 0,
+      "materials": [],
+      "upgrade_from": null,
+      "condition": null,
+      "builder": "Wizard",
+      "size": {
+        "X": 3,
+        "Y": 2
+      },
+      "occupants": null,
+      "raw_max_occupants": 20,
+      "animal_types": [],
+      "special": "巫师建筑需先完成相关任务解锁建筑菜单"
+    },
+    {
+      "id": "Coop",
+      "name": "鸡舍",
+      "gold": 4000,
+      "days": 3,
+      "materials": [
+        {
+          "id": "(O)388",
+          "name": "木材",
+          "count": 300
+        },
+        {
+          "id": "(O)390",
+          "name": "石头",
+          "count": 100
+        }
+      ],
+      "upgrade_from": null,
+      "condition": null,
+      "builder": "Robin",
+      "size": {
+        "X": 6,
+        "Y": 3
+      },
+      "occupants": 4,
+      "raw_max_occupants": 4,
+      "animal_types": [
+        "Coop"
+      ],
+      "special": ""
+    },
+    {
+      "id": "Barn",
+      "name": "畜棚",
+      "gold": 6000,
+      "days": 3,
+      "materials": [
+        {
+          "id": "(O)388",
+          "name": "木材",
+          "count": 350
+        },
+        {
+          "id": "(O)390",
+          "name": "石头",
+          "count": 150
+        }
+      ],
+      "upgrade_from": null,
+      "condition": null,
+      "builder": "Robin",
+      "size": {
+        "X": 7,
+        "Y": 4
+      },
+      "occupants": 4,
+      "raw_max_occupants": 4,
+      "animal_types": [
+        "Barn"
+      ],
+      "special": ""
+    },
+    {
+      "id": "Well",
+      "name": "水井",
+      "gold": 1000,
+      "days": 2,
+      "materials": [
+        {
+          "id": "(O)390",
+          "name": "石头",
+          "count": 75
+        }
+      ],
+      "upgrade_from": null,
+      "condition": null,
+      "builder": "Robin",
+      "size": {
+        "X": 3,
+        "Y": 3
+      },
+      "occupants": null,
+      "raw_max_occupants": 20,
+      "animal_types": [],
+      "special": ""
+    },
+    {
+      "id": "Silo",
+      "name": "筒仓",
+      "gold": 100,
+      "days": 2,
+      "materials": [
+        {
+          "id": "(O)390",
+          "name": "石头",
+          "count": 100
+        },
+        {
+          "id": "(O)330",
+          "name": "粘土",
+          "count": 10
+        },
+        {
+          "id": "(O)334",
+          "name": "铜锭",
+          "count": 5
+        }
+      ],
+      "upgrade_from": null,
+      "condition": null,
+      "builder": "Robin",
+      "size": {
+        "X": 3,
+        "Y": 3
+      },
+      "occupants": null,
+      "raw_max_occupants": 20,
+      "animal_types": [],
+      "special": ""
+    },
+    {
+      "id": "Mill",
+      "name": "磨坊",
+      "gold": 2500,
+      "days": 2,
+      "materials": [
+        {
+          "id": "(O)388",
+          "name": "木材",
+          "count": 150
+        },
+        {
+          "id": "(O)390",
+          "name": "石头",
+          "count": 50
+        },
+        {
+          "id": "(O)428",
+          "name": "布料",
+          "count": 4
+        }
+      ],
+      "upgrade_from": null,
+      "condition": null,
+      "builder": "Robin",
+      "size": {
+        "X": 4,
+        "Y": 2
+      },
+      "occupants": null,
+      "raw_max_occupants": 20,
+      "animal_types": [],
+      "special": ""
+    },
+    {
+      "id": "Shed",
+      "name": "小屋",
+      "gold": 15000,
+      "days": 2,
+      "materials": [
+        {
+          "id": "(O)388",
+          "name": "木材",
+          "count": 300
+        }
+      ],
+      "upgrade_from": null,
+      "condition": null,
+      "builder": "Robin",
+      "size": {
+        "X": 7,
+        "Y": 3
+      },
+      "occupants": null,
+      "raw_max_occupants": 20,
+      "animal_types": [],
+      "special": ""
+    },
+    {
+      "id": "Fish Pond",
+      "name": "鱼塘",
+      "gold": 5000,
+      "days": 2,
+      "materials": [
+        {
+          "id": "(O)390",
+          "name": "石头",
+          "count": 200
+        },
+        {
+          "id": "(O)152",
+          "name": "海草",
+          "count": 5
+        },
+        {
+          "id": "(O)153",
+          "name": "绿藻",
+          "count": 5
+        }
+      ],
+      "upgrade_from": null,
+      "condition": null,
+      "builder": "Robin",
+      "size": {
+        "X": 5,
+        "Y": 5
+      },
+      "occupants": null,
+      "raw_max_occupants": -1,
+      "animal_types": [],
+      "special": ""
+    },
+    {
+      "id": "Cabin",
+      "name": "联机小屋",
+      "gold": 100,
+      "days": 0,
+      "materials": [],
+      "upgrade_from": null,
+      "condition": "CAN_BUILD_CABIN",
+      "builder": "Robin",
+      "size": {
+        "X": 5,
+        "Y": 3
+      },
+      "occupants": null,
+      "raw_max_occupants": 20,
+      "animal_types": [],
+      "special": ""
+    },
+    {
+      "id": "Pet Bowl",
+      "name": "宠物碗",
+      "gold": 5000,
+      "days": 0,
+      "materials": [
+        {
+          "id": "(O)709",
+          "name": "硬木",
+          "count": 25
+        }
+      ],
+      "upgrade_from": null,
+      "condition": null,
+      "builder": "Robin",
+      "size": {
+        "X": 2,
+        "Y": 2
+      },
+      "occupants": null,
+      "raw_max_occupants": 20,
+      "animal_types": [],
+      "special": ""
+    },
+    {
+      "id": "Stable",
+      "name": "马厩",
+      "gold": 10000,
+      "days": 2,
+      "materials": [
+        {
+          "id": "(O)709",
+          "name": "硬木",
+          "count": 100
+        },
+        {
+          "id": "(O)335",
+          "name": "铁锭",
+          "count": 5
+        }
+      ],
+      "upgrade_from": null,
+      "condition": "CAN_BUILD_FOR_CABINS Stable",
+      "builder": "Robin",
+      "size": {
+        "X": 4,
+        "Y": 2
+      },
+      "occupants": null,
+      "raw_max_occupants": 20,
+      "animal_types": [],
+      "special": ""
+    },
+    {
+      "id": "Slime Hutch",
+      "name": "史莱姆屋",
+      "gold": 10000,
+      "days": 2,
+      "materials": [
+        {
+          "id": "(O)390",
+          "name": "石头",
+          "count": 500
+        },
+        {
+          "id": "(O)338",
+          "name": "精炼石英",
+          "count": 10
+        },
+        {
+          "id": "(O)337",
+          "name": "铱锭",
+          "count": 1
+        }
+      ],
+      "upgrade_from": null,
+      "condition": null,
+      "builder": "Robin",
+      "size": {
+        "X": 7,
+        "Y": 4
+      },
+      "occupants": 20,
+      "raw_max_occupants": 20,
+      "animal_types": [
+        "Slime"
+      ],
+      "special": ""
+    },
+    {
+      "id": "Big Coop",
+      "name": "大鸡舍",
+      "gold": 10000,
+      "days": 2,
+      "materials": [
+        {
+          "id": "(O)388",
+          "name": "木材",
+          "count": 400
+        },
+        {
+          "id": "(O)390",
+          "name": "石头",
+          "count": 150
+        }
+      ],
+      "upgrade_from": "Coop",
+      "condition": null,
+      "builder": "Robin",
+      "size": {
+        "X": 6,
+        "Y": 3
+      },
+      "occupants": 8,
+      "raw_max_occupants": 8,
+      "animal_types": [
+        "Coop"
+      ],
+      "special": ""
+    },
+    {
+      "id": "Deluxe Coop",
+      "name": "高级鸡舍",
+      "gold": 20000,
+      "days": 2,
+      "materials": [
+        {
+          "id": "(O)388",
+          "name": "木材",
+          "count": 500
+        },
+        {
+          "id": "(O)390",
+          "name": "石头",
+          "count": 200
+        }
+      ],
+      "upgrade_from": "Big Coop",
+      "condition": null,
+      "builder": "Robin",
+      "size": {
+        "X": 6,
+        "Y": 3
+      },
+      "occupants": 12,
+      "raw_max_occupants": 12,
+      "animal_types": [
+        "Coop"
+      ],
+      "special": ""
+    },
+    {
+      "id": "Big Barn",
+      "name": "大畜棚",
+      "gold": 12000,
+      "days": 2,
+      "materials": [
+        {
+          "id": "(O)388",
+          "name": "木材",
+          "count": 450
+        },
+        {
+          "id": "(O)390",
+          "name": "石头",
+          "count": 200
+        }
+      ],
+      "upgrade_from": "Barn",
+      "condition": null,
+      "builder": "Robin",
+      "size": {
+        "X": 7,
+        "Y": 4
+      },
+      "occupants": 8,
+      "raw_max_occupants": 8,
+      "animal_types": [
+        "Barn"
+      ],
+      "special": ""
+    },
+    {
+      "id": "Deluxe Barn",
+      "name": "高级畜棚",
+      "gold": 25000,
+      "days": 2,
+      "materials": [
+        {
+          "id": "(O)388",
+          "name": "木材",
+          "count": 550
+        },
+        {
+          "id": "(O)390",
+          "name": "石头",
+          "count": 300
+        }
+      ],
+      "upgrade_from": "Big Barn",
+      "condition": null,
+      "builder": "Robin",
+      "size": {
+        "X": 7,
+        "Y": 4
+      },
+      "occupants": 12,
+      "raw_max_occupants": 12,
+      "animal_types": [
+        "Barn"
+      ],
+      "special": ""
+    },
+    {
+      "id": "Big Shed",
+      "name": "大屋子",
+      "gold": 20000,
+      "days": 2,
+      "materials": [
+        {
+          "id": "(O)388",
+          "name": "木材",
+          "count": 550
+        },
+        {
+          "id": "(O)390",
+          "name": "石头",
+          "count": 300
+        }
+      ],
+      "upgrade_from": "Shed",
+      "condition": null,
+      "builder": "Robin",
+      "size": {
+        "X": 7,
+        "Y": 3
+      },
+      "occupants": null,
+      "raw_max_occupants": 20,
+      "animal_types": [],
+      "special": ""
+    },
+    {
+      "id": "Shipping Bin",
+      "name": "出货箱",
+      "gold": 250,
+      "days": 0,
+      "materials": [
+        {
+          "id": "(O)388",
+          "name": "木材",
+          "count": 150
+        }
+      ],
+      "upgrade_from": null,
+      "condition": null,
+      "builder": "Robin",
+      "size": {
+        "X": 2,
+        "Y": 1
+      },
+      "occupants": null,
+      "raw_max_occupants": 20,
+      "animal_types": [],
+      "special": ""
+    },
+    {
+      "id": "Farmhouse",
+      "name": "Farmhouse",
+      "gold": 0,
+      "days": 0,
+      "materials": [],
+      "upgrade_from": null,
+      "condition": null,
+      "builder": "None",
+      "size": {
+        "X": 9,
+        "Y": 5
+      },
+      "occupants": null,
+      "raw_max_occupants": 20,
+      "animal_types": [],
+      "special": "地图原有建筑；0g不代表可免费购买"
+    },
+    {
+      "id": "Greenhouse",
+      "name": "温室",
+      "gold": 0,
+      "days": 0,
+      "materials": [],
+      "upgrade_from": null,
+      "condition": null,
+      "builder": "None",
+      "size": {
+        "X": 7,
+        "Y": 6
+      },
+      "occupants": null,
+      "raw_max_occupants": 20,
+      "animal_types": [],
+      "special": "地图原有建筑；0g不代表可免费购买"
+    }
+  ],
+  "renovations": [
+    {
+      "id": "remove_crib",
+      "raw_price_g": 0,
+      "requirements": [
+        {
+          "Type": "Value",
+          "Key": "cribStyle",
+          "Value": "!0"
+        }
+      ],
+      "name": "S"
+    },
+    {
+      "id": "build_crib",
+      "raw_price_g": 0,
+      "requirements": [
+        {
+          "Type": "Value",
+          "Key": "cribStyle",
+          "Value": "0"
+        }
+      ],
+      "name": "S"
+    },
+    {
+      "id": "open_bedroom",
+      "raw_price_g": 10000,
+      "requirements": [
+        {
+          "Type": "Mail",
+          "Key": "renovation_bedroom_open",
+          "Value": "0"
+        }
+      ],
+      "name": "S"
+    },
+    {
+      "id": "close_bedroom",
+      "raw_price_g": -10000,
+      "requirements": [
+        {
+          "Type": "Mail",
+          "Key": "renovation_bedroom_open",
+          "Value": "1"
+        }
+      ],
+      "name": "S"
+    },
+    {
+      "id": "add_southern_room",
+      "raw_price_g": 30000,
+      "requirements": [
+        {
+          "Type": "Mail",
+          "Key": "renovation_southern_open",
+          "Value": "0"
+        }
+      ],
+      "name": "S"
+    },
+    {
+      "id": "remove_southern_room",
+      "raw_price_g": -30000,
+      "requirements": [
+        {
+          "Type": "Mail",
+          "Key": "renovation_southern_open",
+          "Value": "1"
+        }
+      ],
+      "name": "S"
+    },
+    {
+      "id": "add_corner_room",
+      "raw_price_g": 20000,
+      "requirements": [
+        {
+          "Type": "Mail",
+          "Key": "renovation_corner_open",
+          "Value": "0"
+        }
+      ],
+      "name": "S"
+    },
+    {
+      "id": "remove_corner_room",
+      "raw_price_g": -20000,
+      "requirements": [
+        {
+          "Type": "Mail",
+          "Key": "renovation_corner_open",
+          "Value": "1"
+        },
+        {
+          "Type": "Mail",
+          "Key": "renovation_extendedcorner_open",
+          "Value": "0"
+        }
+      ],
+      "name": "S"
+    },
+    {
+      "id": "add_dining_room",
+      "raw_price_g": 150000,
+      "requirements": [
+        {
+          "Type": "Mail",
+          "Key": "renovation_dining_open",
+          "Value": "0"
+        }
+      ],
+      "name": "S"
+    },
+    {
+      "id": "remove_dining_room",
+      "raw_price_g": -150000,
+      "requirements": [
+        {
+          "Type": "Mail",
+          "Key": "renovation_dining_open",
+          "Value": "1"
+        },
+        {
+          "Type": "Mail",
+          "Key": "renovation_diningroomwall_open",
+          "Value": "1"
+        }
+      ],
+      "name": "S"
+    },
+    {
+      "id": "add_cubby",
+      "raw_price_g": 10000,
+      "requirements": [
+        {
+          "Type": "Mail",
+          "Key": "renovation_cubby_open",
+          "Value": "0"
+        }
+      ],
+      "name": "S"
+    },
+    {
+      "id": "remove_cubby",
+      "raw_price_g": -10000,
+      "requirements": [
+        {
+          "Type": "Mail",
+          "Key": "renovation_cubby_open",
+          "Value": "1"
+        }
+      ],
+      "name": "S"
+    },
+    {
+      "id": "add_farupperroom",
+      "raw_price_g": 60000,
+      "requirements": [
+        {
+          "Type": "Mail",
+          "Key": "renovation_farupperroom_open",
+          "Value": "0"
+        }
+      ],
+      "name": "S"
+    },
+    {
+      "id": "remove_farupperroom",
+      "raw_price_g": -60000,
+      "requirements": [
+        {
+          "Type": "Mail",
+          "Key": "renovation_farupperroom_open",
+          "Value": "1"
+        }
+      ],
+      "name": "S"
+    },
+    {
+      "id": "add_extendedcorner",
+      "raw_price_g": 100000,
+      "requirements": [
+        {
+          "Type": "Mail",
+          "Key": "renovation_extendedcorner_open",
+          "Value": "0"
+        },
+        {
+          "Type": "Mail",
+          "Key": "renovation_corner_open",
+          "Value": "1"
+        }
+      ],
+      "name": "S"
+    },
+    {
+      "id": "remove_extendedcorner",
+      "raw_price_g": -100000,
+      "requirements": [
+        {
+          "Type": "Mail",
+          "Key": "renovation_extendedcorner_open",
+          "Value": "1"
+        },
+        {
+          "Type": "Mail",
+          "Key": "renovation_corner_open",
+          "Value": "1"
+        }
+      ],
+      "name": "S"
+    },
+    {
+      "id": "add_diningroomwall",
+      "raw_price_g": 10000,
+      "requirements": [
+        {
+          "Type": "Mail",
+          "Key": "renovation_dining_open",
+          "Value": "1"
+        },
+        {
+          "Type": "Mail",
+          "Key": "renovation_diningroomwall_open",
+          "Value": "1"
+        }
+      ],
+      "name": "S"
+    },
+    {
+      "id": "remove_diningroomwall",
+      "raw_price_g": -10000,
+      "requirements": [
+        {
+          "Type": "Mail",
+          "Key": "renovation_dining_open",
+          "Value": "1"
+        },
+        {
+          "Type": "Mail",
+          "Key": "renovation_diningroomwall_open",
+          "Value": "0"
+        }
+      ],
+      "name": "S"
+    }
+  ]
+}

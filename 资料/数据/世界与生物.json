@@ -1,0 +1,5562 @@
+{
+  "version": "1.6.15 build 24356",
+  "fish": [
+    {
+      "id": "(O)128",
+      "name": "河豚",
+      "raw_rule_fields": [
+        "80",
+        "floater",
+        "1",
+        "36",
+        "1200 1600",
+        "summer",
+        "sunny",
+        "690 .4 685 .1",
+        "4",
+        ".3",
+        ".5",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 80,
+      "behavior": "floater",
+      "time": "1200 1600",
+      "seasons": "summer",
+      "weather": "sunny",
+      "normal_g": 200
+    },
+    {
+      "id": "(O)129",
+      "name": "鳀鱼",
+      "raw_rule_fields": [
+        "30",
+        "dart",
+        "1",
+        "16",
+        "600 2600",
+        "spring fall",
+        "both",
+        "682 .2",
+        "1",
+        ".25",
+        ".3",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 30,
+      "behavior": "dart",
+      "time": "600 2600",
+      "seasons": "spring fall",
+      "weather": "both",
+      "normal_g": 30
+    },
+    {
+      "id": "(O)130",
+      "name": "金枪鱼",
+      "raw_rule_fields": [
+        "70",
+        "smooth",
+        "12",
+        "60",
+        "600 1900",
+        "summer winter",
+        "both",
+        "689 .35 681 .1",
+        "3",
+        ".15",
+        ".55",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 70,
+      "behavior": "smooth",
+      "time": "600 1900",
+      "seasons": "summer winter",
+      "weather": "both",
+      "normal_g": 100
+    },
+    {
+      "id": "(O)131",
+      "name": "沙丁鱼",
+      "raw_rule_fields": [
+        "30",
+        "dart",
+        "1",
+        "12",
+        "600 1900",
+        "spring summer fall winter",
+        "both",
+        "683 .3",
+        "1",
+        ".65",
+        ".1",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 30,
+      "behavior": "dart",
+      "time": "600 1900",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 40
+    },
+    {
+      "id": "(O)132",
+      "name": "鲷鱼",
+      "raw_rule_fields": [
+        "35",
+        "smooth",
+        "12",
+        "30",
+        "1800 2600",
+        "spring summer fall winter",
+        "both",
+        "684 .35",
+        "1",
+        ".45",
+        ".1",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 35,
+      "behavior": "smooth",
+      "time": "1800 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 45
+    },
+    {
+      "id": "(O)136",
+      "name": "大嘴鲈鱼",
+      "raw_rule_fields": [
+        "50",
+        "mixed",
+        "11",
+        "30",
+        "600 1900",
+        "spring summer fall winter",
+        "both",
+        "685 .35",
+        "3",
+        ".4",
+        ".2",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 50,
+      "behavior": "mixed",
+      "time": "600 1900",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 100
+    },
+    {
+      "id": "(O)137",
+      "name": "小嘴鲈鱼",
+      "raw_rule_fields": [
+        "28",
+        "mixed",
+        "12",
+        "24",
+        "600 2600",
+        "spring fall",
+        "both",
+        "682 .2",
+        "1",
+        ".45",
+        ".1",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 28,
+      "behavior": "mixed",
+      "time": "600 2600",
+      "seasons": "spring fall",
+      "weather": "both",
+      "normal_g": 50
+    },
+    {
+      "id": "(O)138",
+      "name": "虹鳟鱼",
+      "raw_rule_fields": [
+        "45",
+        "mixed",
+        "10",
+        "25",
+        "600 1900",
+        "summer",
+        "sunny",
+        "684 .35",
+        "2",
+        ".35",
+        ".3",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 45,
+      "behavior": "mixed",
+      "time": "600 1900",
+      "seasons": "summer",
+      "weather": "sunny",
+      "normal_g": 65
+    },
+    {
+      "id": "(O)139",
+      "name": "鲑鱼",
+      "raw_rule_fields": [
+        "50",
+        "mixed",
+        "24",
+        "65",
+        "600 1900",
+        "fall",
+        "both",
+        "684 .35",
+        "3",
+        ".4",
+        ".2",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 50,
+      "behavior": "mixed",
+      "time": "600 1900",
+      "seasons": "fall",
+      "weather": "both",
+      "normal_g": 75
+    },
+    {
+      "id": "(O)140",
+      "name": "大眼鱼",
+      "raw_rule_fields": [
+        "45",
+        "smooth",
+        "10",
+        "40",
+        "1200 2600",
+        "fall winter",
+        "rainy",
+        "680 .35",
+        "2",
+        ".4",
+        ".15",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 45,
+      "behavior": "smooth",
+      "time": "1200 2600",
+      "seasons": "fall winter",
+      "weather": "rainy",
+      "normal_g": 105
+    },
+    {
+      "id": "(O)141",
+      "name": "河鲈",
+      "raw_rule_fields": [
+        "35",
+        "dart",
+        "10",
+        "24",
+        "600 2600",
+        "winter",
+        "both",
+        "683 .2",
+        "1",
+        ".45",
+        ".1",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 35,
+      "behavior": "dart",
+      "time": "600 2600",
+      "seasons": "winter",
+      "weather": "both",
+      "normal_g": 55
+    },
+    {
+      "id": "(O)142",
+      "name": "鲤鱼",
+      "raw_rule_fields": [
+        "15",
+        "mixed",
+        "15",
+        "50",
+        "600 2600",
+        "spring summer fall",
+        "both",
+        "682 .2",
+        "1",
+        ".45",
+        ".1",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 15,
+      "behavior": "mixed",
+      "time": "600 2600",
+      "seasons": "spring summer fall",
+      "weather": "both",
+      "normal_g": 30
+    },
+    {
+      "id": "(O)143",
+      "name": "鲶鱼",
+      "raw_rule_fields": [
+        "75",
+        "mixed",
+        "12",
+        "72",
+        "600 2400",
+        "spring fall winter",
+        "rainy",
+        "689 .4 680 .1",
+        "4",
+        ".4",
+        ".1",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 75,
+      "behavior": "mixed",
+      "time": "600 2400",
+      "seasons": "spring fall winter",
+      "weather": "rainy",
+      "normal_g": 200
+    },
+    {
+      "id": "(O)144",
+      "name": "狗鱼",
+      "raw_rule_fields": [
+        "60",
+        "dart",
+        "15",
+        "60",
+        "600 2600",
+        "summer winter",
+        "both",
+        "690 .3 681 .1",
+        "3",
+        ".4",
+        ".15",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 60,
+      "behavior": "dart",
+      "time": "600 2600",
+      "seasons": "summer winter",
+      "weather": "both",
+      "normal_g": 100
+    },
+    {
+      "id": "(O)145",
+      "name": "太阳鱼",
+      "raw_rule_fields": [
+        "30",
+        "mixed",
+        "5",
+        "15",
+        "600 1900",
+        "spring summer",
+        "sunny",
+        "683 .2",
+        "1",
+        ".45",
+        ".1",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 30,
+      "behavior": "mixed",
+      "time": "600 1900",
+      "seasons": "spring summer",
+      "weather": "sunny",
+      "normal_g": 30
+    },
+    {
+      "id": "(O)146",
+      "name": "红鲻鱼",
+      "raw_rule_fields": [
+        "55",
+        "smooth",
+        "8",
+        "22",
+        "600 1900",
+        "summer winter",
+        "both",
+        "680 .25",
+        "2",
+        ".4",
+        ".15",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 55,
+      "behavior": "smooth",
+      "time": "600 1900",
+      "seasons": "summer winter",
+      "weather": "both",
+      "normal_g": 75
+    },
+    {
+      "id": "(O)147",
+      "name": "鲱鱼",
+      "raw_rule_fields": [
+        "25",
+        "dart",
+        "8",
+        "20",
+        "600 2600",
+        "spring winter",
+        "both",
+        "685 .2",
+        "1",
+        ".45",
+        ".1",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 25,
+      "behavior": "dart",
+      "time": "600 2600",
+      "seasons": "spring winter",
+      "weather": "both",
+      "normal_g": 30
+    },
+    {
+      "id": "(O)148",
+      "name": "鳗鱼",
+      "raw_rule_fields": [
+        "70",
+        "smooth",
+        "12",
+        "80",
+        "1600 2600",
+        "spring fall",
+        "rainy",
+        "689 .35 680 .1",
+        "3",
+        ".55",
+        ".1",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 70,
+      "behavior": "smooth",
+      "time": "1600 2600",
+      "seasons": "spring fall",
+      "weather": "rainy",
+      "normal_g": 85
+    },
+    {
+      "id": "(O)149",
+      "name": "章鱼",
+      "raw_rule_fields": [
+        "95",
+        "sinker",
+        "12",
+        "48",
+        "600 1300",
+        "summer",
+        "both",
+        "688 .6 684 .1",
+        "5",
+        ".1",
+        ".08",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 95,
+      "behavior": "sinker",
+      "time": "600 1300",
+      "seasons": "summer",
+      "weather": "both",
+      "normal_g": 150
+    },
+    {
+      "id": "(O)150",
+      "name": "红鲷鱼",
+      "raw_rule_fields": [
+        "40",
+        "mixed",
+        "8",
+        "25",
+        "600 1900",
+        "summer fall winter",
+        "rainy",
+        "682 .25",
+        "2",
+        ".45",
+        ".1",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 40,
+      "behavior": "mixed",
+      "time": "600 1900",
+      "seasons": "summer fall winter",
+      "weather": "rainy",
+      "normal_g": 50
+    },
+    {
+      "id": "(O)151",
+      "name": "鱿鱼",
+      "raw_rule_fields": [
+        "75",
+        "sinker",
+        "12",
+        "48",
+        "1800 2600",
+        "winter",
+        "both",
+        "690 .35 680 .1",
+        "3",
+        ".35",
+        ".3",
+        "0",
+        "true"
+      ],
+      "kind": "钓竿",
+      "difficulty": 75,
+      "behavior": "sinker",
+      "time": "1800 2600",
+      "seasons": "winter",
+      "weather": "both",
+      "normal_g": 80
+    },
+    {
+      "id": "(O)152",
+      "name": "海草",
+      "raw_rule_fields": [
+        "5",
+        "floater",
+        "5",
+        "30",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "-1",
+        "0",
+        ".3",
+        "0",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 5,
+      "behavior": "floater",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 20
+    },
+    {
+      "id": "(O)153",
+      "name": "绿藻",
+      "raw_rule_fields": [
+        "5",
+        "floater",
+        "5",
+        "30",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "-1",
+        "0",
+        ".3",
+        "0",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 5,
+      "behavior": "floater",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 15
+    },
+    {
+      "id": "(O)154",
+      "name": "海参",
+      "raw_rule_fields": [
+        "40",
+        "sinker",
+        "3",
+        "20",
+        "600 1900",
+        "fall winter",
+        "both",
+        "683 .2 689 .4",
+        "3",
+        ".25",
+        ".25",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 40,
+      "behavior": "sinker",
+      "time": "600 1900",
+      "seasons": "fall winter",
+      "weather": "both",
+      "normal_g": 75
+    },
+    {
+      "id": "(O)155",
+      "name": "大海参",
+      "raw_rule_fields": [
+        "80",
+        "sinker",
+        "12",
+        "36",
+        "1800 2600",
+        "summer winter",
+        "both",
+        "683 .2 689 .4",
+        "4",
+        ".1",
+        ".25",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 80,
+      "behavior": "sinker",
+      "time": "1800 2600",
+      "seasons": "summer winter",
+      "weather": "both",
+      "normal_g": 250
+    },
+    {
+      "id": "(O)156",
+      "name": "鬼鱼",
+      "raw_rule_fields": [
+        "50",
+        "mixed",
+        "10",
+        "35",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "684 .35",
+        "2",
+        ".3",
+        ".3",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 50,
+      "behavior": "mixed",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 45
+    },
+    {
+      "id": "(O)157",
+      "name": "白藻",
+      "raw_rule_fields": [
+        "5",
+        "floater",
+        "5",
+        "30",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "-1",
+        "0",
+        ".3",
+        "0",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 5,
+      "behavior": "floater",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 25
+    },
+    {
+      "id": "(O)158",
+      "name": "石鱼",
+      "raw_rule_fields": [
+        "65",
+        "sinker",
+        "15",
+        "15",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "689 .2",
+        "2",
+        ".1",
+        ".1",
+        "3",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 65,
+      "behavior": "sinker",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 300
+    },
+    {
+      "id": "(O)159",
+      "name": "绯红鱼",
+      "raw_rule_fields": [
+        "95",
+        "mixed",
+        "20",
+        "20",
+        "600 2000",
+        "winter",
+        "both",
+        "690 .15",
+        "4",
+        ".1",
+        ".1",
+        "5",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 95,
+      "behavior": "mixed",
+      "time": "600 2000",
+      "seasons": "winter",
+      "weather": "both",
+      "normal_g": 1500
+    },
+    {
+      "id": "(O)160",
+      "name": "鮟鱇鱼",
+      "raw_rule_fields": [
+        "85",
+        "smooth",
+        "18",
+        "18",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "690 .1",
+        "4",
+        ".05",
+        ".1",
+        "3",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 85,
+      "behavior": "smooth",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 900
+    },
+    {
+      "id": "(O)161",
+      "name": "冰柱鱼",
+      "raw_rule_fields": [
+        "85",
+        "dart",
+        "8",
+        "8",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "682 .1",
+        "2",
+        ".05",
+        ".1",
+        "5",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 85,
+      "behavior": "dart",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 500
+    },
+    {
+      "id": "(O)162",
+      "name": "岩浆鳗鱼",
+      "raw_rule_fields": [
+        "90",
+        "mixed",
+        "32",
+        "32",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "684 .1",
+        "2",
+        ".05",
+        ".1",
+        "7",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 90,
+      "behavior": "mixed",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 700
+    },
+    {
+      "id": "(O)163",
+      "name": "传说之鱼",
+      "raw_rule_fields": [
+        "110",
+        "mixed",
+        "50",
+        "50",
+        "600 2000",
+        "spring summer fall winter",
+        "rainy",
+        "688 .05",
+        "5",
+        "0",
+        ".1",
+        "10",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 110,
+      "behavior": "mixed",
+      "time": "600 2000",
+      "seasons": "spring summer fall winter",
+      "weather": "rainy",
+      "normal_g": 5000
+    },
+    {
+      "id": "(O)775",
+      "name": "冰川鱼",
+      "raw_rule_fields": [
+        "100",
+        "mixed",
+        "27",
+        "27",
+        "600 2000",
+        "winter",
+        "sunny",
+        "688 .1",
+        "5",
+        "0",
+        ".02",
+        "7",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 100,
+      "behavior": "mixed",
+      "time": "600 2000",
+      "seasons": "winter",
+      "weather": "sunny",
+      "normal_g": 1000
+    },
+    {
+      "id": "(O)682",
+      "name": "变种鲤鱼",
+      "raw_rule_fields": [
+        "80",
+        "dart",
+        "36",
+        "36",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "688 .1",
+        "5",
+        "0",
+        ".02",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 80,
+      "behavior": "dart",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 1000
+    },
+    {
+      "id": "(O)164",
+      "name": "沙鱼",
+      "raw_rule_fields": [
+        "65",
+        "mixed",
+        "8",
+        "24",
+        "600 2000",
+        "spring summer fall winter",
+        "both",
+        "682 .2",
+        "1",
+        ".65",
+        ".1",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 65,
+      "behavior": "mixed",
+      "time": "600 2000",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 75
+    },
+    {
+      "id": "(O)165",
+      "name": "蝎鲤鱼",
+      "raw_rule_fields": [
+        "90",
+        "dart",
+        "12",
+        "32",
+        "600 2000",
+        "spring summer fall winter",
+        "both",
+        "683 .4",
+        "2",
+        ".15",
+        ".1",
+        "4",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 90,
+      "behavior": "dart",
+      "time": "600 2000",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 150
+    },
+    {
+      "id": "(O)267",
+      "name": "比目鱼",
+      "raw_rule_fields": [
+        "50",
+        "sinker",
+        "4",
+        "16",
+        "600 2000",
+        "spring summer",
+        "both",
+        "680 .25",
+        "2",
+        ".15",
+        ".05",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 50,
+      "behavior": "sinker",
+      "time": "600 2000",
+      "seasons": "spring summer",
+      "weather": "both",
+      "normal_g": 100
+    },
+    {
+      "id": "(O)269",
+      "name": "午夜鲤鱼",
+      "raw_rule_fields": [
+        "55",
+        "mixed",
+        "12",
+        "52",
+        "2200 2600",
+        "fall winter",
+        "both",
+        "682 .2",
+        "1",
+        ".33",
+        ".1",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 55,
+      "behavior": "mixed",
+      "time": "2200 2600",
+      "seasons": "fall winter",
+      "weather": "both",
+      "normal_g": 150
+    },
+    {
+      "id": "(O)715",
+      "name": "龙虾",
+      "raw_rule_fields": [
+        "trap",
+        ".05",
+        "688 .45 689 .35 690 .35",
+        "ocean",
+        "2",
+        "20",
+        "false"
+      ],
+      "kind": "蟹笼",
+      "habitat": "ocean",
+      "catch_chance": 0.05,
+      "normal_g": 120
+    },
+    {
+      "id": "(O)717",
+      "name": "螃蟹",
+      "raw_rule_fields": [
+        "trap",
+        ".1",
+        "684 .45",
+        "ocean",
+        "1",
+        "20",
+        "false"
+      ],
+      "kind": "蟹笼",
+      "habitat": "ocean",
+      "catch_chance": 0.1,
+      "normal_g": 100
+    },
+    {
+      "id": "(O)723",
+      "name": "牡蛎",
+      "raw_rule_fields": [
+        "trap",
+        ".15",
+        "682 .35",
+        "ocean",
+        "1",
+        "5",
+        "false"
+      ],
+      "kind": "蟹笼",
+      "habitat": "ocean",
+      "catch_chance": 0.15,
+      "normal_g": 40
+    },
+    {
+      "id": "(O)372",
+      "name": "蛤",
+      "raw_rule_fields": [
+        "trap",
+        ".15",
+        "681 .35",
+        "ocean",
+        "1",
+        "5",
+        "false"
+      ],
+      "kind": "蟹笼",
+      "habitat": "ocean",
+      "catch_chance": 0.15,
+      "normal_g": 50
+    },
+    {
+      "id": "(O)720",
+      "name": "虾",
+      "raw_rule_fields": [
+        "trap",
+        ".2",
+        "681 .35",
+        "ocean",
+        "1",
+        "3",
+        "false"
+      ],
+      "kind": "蟹笼",
+      "habitat": "ocean",
+      "catch_chance": 0.2,
+      "normal_g": 60
+    },
+    {
+      "id": "(O)718",
+      "name": "鸟蛤",
+      "raw_rule_fields": [
+        "trap",
+        ".3",
+        "680 .2",
+        "ocean",
+        "1",
+        "5",
+        "false"
+      ],
+      "kind": "蟹笼",
+      "habitat": "ocean",
+      "catch_chance": 0.3,
+      "normal_g": 50
+    },
+    {
+      "id": "(O)719",
+      "name": "蚌",
+      "raw_rule_fields": [
+        "trap",
+        ".35",
+        "683 .15",
+        "ocean",
+        "1",
+        "5",
+        "false"
+      ],
+      "kind": "蟹笼",
+      "habitat": "ocean",
+      "catch_chance": 0.35,
+      "normal_g": 30
+    },
+    {
+      "id": "(O)721",
+      "name": "蜗牛",
+      "raw_rule_fields": [
+        "trap",
+        ".25",
+        "680 .35",
+        "freshwater",
+        "1",
+        "5",
+        "false"
+      ],
+      "kind": "蟹笼",
+      "habitat": "freshwater",
+      "catch_chance": 0.25,
+      "normal_g": 65
+    },
+    {
+      "id": "(O)716",
+      "name": "小龙虾",
+      "raw_rule_fields": [
+        "trap",
+        ".35",
+        "682 .4",
+        "freshwater",
+        "1",
+        "8",
+        "false"
+      ],
+      "kind": "蟹笼",
+      "habitat": "freshwater",
+      "catch_chance": 0.35,
+      "normal_g": 75
+    },
+    {
+      "id": "(O)722",
+      "name": "玉黍螺",
+      "raw_rule_fields": [
+        "trap",
+        ".55",
+        "681 .35",
+        "freshwater",
+        "1",
+        "3",
+        "false"
+      ],
+      "kind": "蟹笼",
+      "habitat": "freshwater",
+      "catch_chance": 0.55,
+      "normal_g": 20
+    },
+    {
+      "id": "(O)698",
+      "name": "鲟鱼",
+      "raw_rule_fields": [
+        "78",
+        "mixed",
+        "12",
+        "60",
+        "600 1900",
+        "summer winter",
+        "both",
+        "689 .35 682 .1",
+        "3",
+        ".35",
+        ".2",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 78,
+      "behavior": "mixed",
+      "time": "600 1900",
+      "seasons": "summer winter",
+      "weather": "both",
+      "normal_g": 200
+    },
+    {
+      "id": "(O)699",
+      "name": "虎纹鳟鱼",
+      "raw_rule_fields": [
+        "60",
+        "dart",
+        "10",
+        "20",
+        "600 1900",
+        "spring summer fall winter",
+        "both",
+        "688 .45 685 .2",
+        "3",
+        ".2",
+        ".1",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 60,
+      "behavior": "dart",
+      "time": "600 1900",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 150
+    },
+    {
+      "id": "(O)700",
+      "name": "大头鱼",
+      "raw_rule_fields": [
+        "46",
+        "smooth",
+        "12",
+        "30",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "681 .25",
+        "2",
+        ".35",
+        ".2",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 46,
+      "behavior": "smooth",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 75
+    },
+    {
+      "id": "(O)701",
+      "name": "罗非鱼",
+      "raw_rule_fields": [
+        "50",
+        "mixed",
+        "11",
+        "30",
+        "600 1400",
+        "summer fall",
+        "both",
+        "683 .35",
+        "3",
+        ".4",
+        ".2",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 50,
+      "behavior": "mixed",
+      "time": "600 1400",
+      "seasons": "summer fall",
+      "weather": "both",
+      "normal_g": 75
+    },
+    {
+      "id": "(O)702",
+      "name": "鲢鱼",
+      "raw_rule_fields": [
+        "35",
+        "dart",
+        "12",
+        "24",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "684 .35",
+        "1",
+        ".45",
+        ".1",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 35,
+      "behavior": "dart",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 50
+    },
+    {
+      "id": "(O)704",
+      "name": "麻哈脂鲤",
+      "raw_rule_fields": [
+        "78",
+        "mixed",
+        "24",
+        "32",
+        "600 1900",
+        "summer",
+        "both",
+        "689 .35 681 .1",
+        "3",
+        ".15",
+        ".1",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 78,
+      "behavior": "mixed",
+      "time": "600 1900",
+      "seasons": "summer",
+      "weather": "both",
+      "normal_g": 100
+    },
+    {
+      "id": "(O)705",
+      "name": "青花鱼",
+      "raw_rule_fields": [
+        "60",
+        "mixed",
+        "20",
+        "40",
+        "600 1100 1800 2600",
+        "fall winter",
+        "both",
+        "685 .35",
+        "3",
+        ".3",
+        ".15",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 60,
+      "behavior": "mixed",
+      "time": "600 1100 1800 2600",
+      "seasons": "fall winter",
+      "weather": "both",
+      "normal_g": 75
+    },
+    {
+      "id": "(O)706",
+      "name": "西鲱",
+      "raw_rule_fields": [
+        "45",
+        "smooth",
+        "20",
+        "48",
+        "900 2600",
+        "spring summer fall",
+        "rainy",
+        "684 .35",
+        "2",
+        ".35",
+        ".2",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 45,
+      "behavior": "smooth",
+      "time": "900 2600",
+      "seasons": "spring summer fall",
+      "weather": "rainy",
+      "normal_g": 60
+    },
+    {
+      "id": "(O)707",
+      "name": "蛇齿单线鱼",
+      "raw_rule_fields": [
+        "85",
+        "mixed",
+        "30",
+        "50",
+        "600 2600",
+        "winter",
+        "both",
+        "690 .4 685 .2",
+        "3",
+        ".3",
+        ".05",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 85,
+      "behavior": "mixed",
+      "time": "600 2600",
+      "seasons": "winter",
+      "weather": "both",
+      "normal_g": 120
+    },
+    {
+      "id": "(O)708",
+      "name": "大比目鱼",
+      "raw_rule_fields": [
+        "50",
+        "sinker",
+        "10",
+        "33",
+        "600 1100 1900 2600",
+        "spring summer winter",
+        "both",
+        "681 .35",
+        "3",
+        ".4",
+        ".2",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 50,
+      "behavior": "sinker",
+      "time": "600 1100 1900 2600",
+      "seasons": "spring summer winter",
+      "weather": "both",
+      "normal_g": 80
+    },
+    {
+      "id": "(O)734",
+      "name": "木跃鱼",
+      "raw_rule_fields": [
+        "50",
+        "mixed",
+        "11",
+        "30",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "685 .35",
+        "3",
+        ".2",
+        ".1",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 50,
+      "behavior": "mixed",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 75
+    },
+    {
+      "id": "(O)795",
+      "name": "虚空鲑鱼",
+      "raw_rule_fields": [
+        "80",
+        "mixed",
+        "24",
+        "65",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "685 .35",
+        "2",
+        ".33",
+        ".1",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 80,
+      "behavior": "mixed",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 150
+    },
+    {
+      "id": "(O)796",
+      "name": "史莱姆鱼",
+      "raw_rule_fields": [
+        "55",
+        "dart",
+        "8",
+        "25",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "685 .35",
+        "3",
+        ".4",
+        ".1",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 55,
+      "behavior": "dart",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 100
+    },
+    {
+      "id": "(O)798",
+      "name": "午夜鱿鱼",
+      "raw_rule_fields": [
+        "55",
+        "sinker",
+        "8",
+        "25",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "685 .35",
+        "3",
+        ".4",
+        ".1",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 55,
+      "behavior": "sinker",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 100
+    },
+    {
+      "id": "(O)799",
+      "name": "幽灵鱼",
+      "raw_rule_fields": [
+        "60",
+        "dart",
+        "8",
+        "25",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "685 .35",
+        "3",
+        ".4",
+        ".1",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 60,
+      "behavior": "dart",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 220
+    },
+    {
+      "id": "(O)800",
+      "name": "水滴鱼",
+      "raw_rule_fields": [
+        "75",
+        "floater",
+        "8",
+        "25",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "685 .35",
+        "3",
+        ".4",
+        ".1",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 75,
+      "behavior": "floater",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 500
+    },
+    {
+      "id": "(O)836",
+      "name": "黄貂鱼",
+      "raw_rule_fields": [
+        "80",
+        "sinker",
+        "18",
+        "60",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "685 .35",
+        "4",
+        ".2",
+        ".1",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 80,
+      "behavior": "sinker",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 180
+    },
+    {
+      "id": "(O)837",
+      "name": "狮子鱼",
+      "raw_rule_fields": [
+        "50",
+        "smooth",
+        "3",
+        "12",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "685 .35",
+        "3",
+        ".4",
+        ".1",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 50,
+      "behavior": "smooth",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 100
+    },
+    {
+      "id": "(O)838",
+      "name": "蓝铁饼鱼",
+      "raw_rule_fields": [
+        "60",
+        "dart",
+        "2",
+        "9",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "685 .35",
+        "1",
+        ".25",
+        ".1",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 60,
+      "behavior": "dart",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 120
+    },
+    {
+      "id": "(O)898",
+      "name": "绯红鱼之子",
+      "raw_rule_fields": [
+        "95",
+        "mixed",
+        "20",
+        "20",
+        "600 2000",
+        "winter",
+        "both",
+        "690 .15",
+        "4",
+        ".1",
+        ".1",
+        "5",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 95,
+      "behavior": "mixed",
+      "time": "600 2000",
+      "seasons": "winter",
+      "weather": "both",
+      "normal_g": 1500
+    },
+    {
+      "id": "(O)899",
+      "name": "雌鮟鱇鱼",
+      "raw_rule_fields": [
+        "85",
+        "smooth",
+        "18",
+        "18",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "690 .1",
+        "4",
+        ".05",
+        ".1",
+        "3",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 85,
+      "behavior": "smooth",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 900
+    },
+    {
+      "id": "(O)900",
+      "name": "传说之鱼二代",
+      "raw_rule_fields": [
+        "110",
+        "mixed",
+        "50",
+        "50",
+        "600 2000",
+        "spring summer fall winter",
+        "rainy",
+        "688 .05",
+        "5",
+        "0",
+        ".1",
+        "10",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 110,
+      "behavior": "mixed",
+      "time": "600 2000",
+      "seasons": "spring summer fall winter",
+      "weather": "rainy",
+      "normal_g": 5000
+    },
+    {
+      "id": "(O)901",
+      "name": "放射性鲤鱼",
+      "raw_rule_fields": [
+        "80",
+        "dart",
+        "36",
+        "36",
+        "600 2600",
+        "spring summer fall winter",
+        "both",
+        "688 .1",
+        "5",
+        "0",
+        ".02",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 80,
+      "behavior": "dart",
+      "time": "600 2600",
+      "seasons": "spring summer fall winter",
+      "weather": "both",
+      "normal_g": 1000
+    },
+    {
+      "id": "(O)902",
+      "name": "小冰川鱼",
+      "raw_rule_fields": [
+        "100",
+        "mixed",
+        "27",
+        "27",
+        "600 2000",
+        "winter",
+        "sunny",
+        "688 .1",
+        "5",
+        "0",
+        ".02",
+        "7",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 100,
+      "behavior": "mixed",
+      "time": "600 2000",
+      "seasons": "winter",
+      "weather": "sunny",
+      "normal_g": 1000
+    },
+    {
+      "id": "(O)Goby",
+      "name": "虾虎鱼",
+      "raw_rule_fields": [
+        "55",
+        "dart",
+        "3",
+        "12",
+        "800 1800",
+        "spring summer fall",
+        "both",
+        "684 .35",
+        "1",
+        ".25",
+        ".2",
+        "0",
+        "false"
+      ],
+      "kind": "钓竿",
+      "difficulty": 55,
+      "behavior": "dart",
+      "time": "800 1800",
+      "seasons": "spring summer fall",
+      "weather": "both",
+      "normal_g": 150
+    }
+  ],
+  "monster_templates": [
+    {
+      "id": "Green Slime",
+      "name": "绿色史莱姆",
+      "base_health": 24,
+      "base_damage": 5,
+      "drops_rule": "766 .75 766 .05 153 .1 66 .015 92 .15 96 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Dust Spirit",
+      "name": "灰尘精灵",
+      "base_health": 40,
+      "base_damage": 6,
+      "drops_rule": "382 .5 433 .01 336 .001 84 .02 414 .02 97 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Bat",
+      "name": "蝙蝠",
+      "base_health": 24,
+      "base_damage": 6,
+      "drops_rule": "767 .9 767 .4 108 .001 287 .02 96 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Frost Bat",
+      "name": "冰霜蝙蝠",
+      "base_health": 36,
+      "base_damage": 7,
+      "drops_rule": "767 .9 767 .55 108 .001 287 .02 97 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Lava Bat",
+      "name": "熔岩蝙蝠",
+      "base_health": 80,
+      "base_damage": 15,
+      "drops_rule": "767 .9 767 .7 108 .001 287 .02 98 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Iridium Bat",
+      "name": "铱蝠",
+      "base_health": 300,
+      "base_damage": 30,
+      "drops_rule": "386 .9 386 .5 386 .25 386 .1 288 .05 768 .5 773 .05 349 .05 787 .05 337 .008",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Stone Golem",
+      "name": "石魔",
+      "base_health": 45,
+      "base_damage": 5,
+      "drops_rule": "390 .9 80 .1 382 .1 380 .1 96 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Wilderness Golem",
+      "name": "荒野石魔",
+      "base_health": 30,
+      "base_damage": 5,
+      "drops_rule": "771 .9 771 .5 770 .5 382 .1 86 .005 72 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Iridium Golem",
+      "name": "Wilderness Golem",
+      "base_health": 30,
+      "base_damage": 5,
+      "drops_rule": "771 .9 771 .5 770 .5 382 .1 86 .005 72 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Grub",
+      "name": "蛆",
+      "base_health": 20,
+      "base_damage": 4,
+      "drops_rule": "684 .6 273 .05 273 .05 157 .02 114 .005 96 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Fly",
+      "name": "苍蝇",
+      "base_health": 22,
+      "base_damage": 6,
+      "drops_rule": "684 .9 157 .02 114 .005 96 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Frost Jelly",
+      "name": "冰冻史莱姆",
+      "base_health": 106,
+      "base_damage": 7,
+      "drops_rule": "766 .75 412 .08 70 .02 98 .015 92 .5 97 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Sludge",
+      "name": "熔岩史莱姆",
+      "base_health": 205,
+      "base_damage": 16,
+      "drops_rule": "766 .8 157 .1 -4 .1 72 .01 92 .5 98 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Shadow Guy",
+      "name": "暗影人",
+      "base_health": 125,
+      "base_damage": 20,
+      "drops_rule": "769 .75 769 .1 329 .02 337 .002 336 .01 335 .02 334 .04 203 .04 293 .03 108 .003 -4 .1 98 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Ghost",
+      "name": "幽灵",
+      "base_health": 96,
+      "base_damage": 10,
+      "drops_rule": "768 .95 768 .1 156 .08 338 .08 -6 .2 97 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Carbon Ghost",
+      "name": "石碳幽灵",
+      "base_health": 190,
+      "base_damage": 25,
+      "drops_rule": "749 .99 338 .1",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Duggy",
+      "name": "掘地虫",
+      "base_health": 40,
+      "base_damage": 6,
+      "drops_rule": "286 .25 535 .25 280 .03 105 .02 86 .1 72 .01 96 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Rock Crab",
+      "name": "岩石蟹",
+      "base_health": 30,
+      "base_damage": 5,
+      "drops_rule": "717 .15 286 .4 96 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Truffle Crab",
+      "name": "Rock Crab",
+      "base_health": 30,
+      "base_damage": 5,
+      "drops_rule": "430 .999 430 .5 430 .1 717 .25 432 .1",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Lava Crab",
+      "name": "熔岩蟹",
+      "base_health": 120,
+      "base_damage": 15,
+      "drops_rule": "717 .25 287 .4 98 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Iridium Crab",
+      "name": "铱蟹",
+      "base_health": 240,
+      "base_damage": 15,
+      "drops_rule": "732 .5 386 .5 386 .5 386 .5",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Fireball",
+      "name": "火球",
+      "base_health": 1,
+      "base_damage": 18,
+      "drops_rule": "72 .0000001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Squid Kid",
+      "name": "鱿鱼娃",
+      "base_health": 1,
+      "base_damage": 18,
+      "drops_rule": "768 .75 814 .2 336 .05 287 .1 288 .05 98 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Skeleton Warrior",
+      "name": "骷髅战士",
+      "base_health": 300,
+      "base_damage": 12,
+      "drops_rule": "769 .25 105 .03 106 .03 166 .001 60 .04 232 .04 72 .03 74 .01 97 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Crow",
+      "name": "乌鸦",
+      "base_health": 1,
+      "base_damage": 0,
+      "drops_rule": "-4 .9",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Frog",
+      "name": "青蛙",
+      "base_health": 1,
+      "base_damage": 0,
+      "drops_rule": "-4 .9",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Cat",
+      "name": "猫",
+      "base_health": 300,
+      "base_damage": 0,
+      "drops_rule": "-6 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Shadow Brute",
+      "name": "暗影狂徒",
+      "base_health": 160,
+      "base_damage": 18,
+      "drops_rule": "769 .75 769 .1 337 .002 336 .01 335 .02 334 .04 203 .04 108 .003 -4 .1 98 .005 99 .001 74 .0005",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Shadow Shaman",
+      "name": "暗影萨满",
+      "base_health": 80,
+      "base_damage": 17,
+      "drops_rule": "769 .75 769 .2 337 .002 336 .01 335 .02 334 .04 108 .003 -4 .1 98 .005 99 .001 74 .0005",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Skeleton",
+      "name": "骷髅",
+      "base_health": 140,
+      "base_damage": 10,
+      "drops_rule": "881 .5 881 .4 881 .2 579 .005",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Skeleton Mage",
+      "name": "骷髅法师",
+      "base_health": 60,
+      "base_damage": 5,
+      "drops_rule": "80 0",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Metal Head",
+      "name": "金属大头",
+      "base_health": 40,
+      "base_damage": 15,
+      "drops_rule": "768 .65 378 .1 378 .1 380 .1 380 .1 382 .1 98 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Spiker",
+      "name": "主攻手",
+      "base_health": 5,
+      "base_damage": 15,
+      "drops_rule": "378 .1 378 .1 380 .1 380 .1 382 .1",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Bug",
+      "name": "臭虫",
+      "base_health": 1,
+      "base_damage": 8,
+      "drops_rule": "684 .76 157 .02 114 .005 96 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Mummy",
+      "name": "木乃伊",
+      "base_health": 260,
+      "base_damage": 30,
+      "drops_rule": "768 .99 428 .2 428 .05 768 .15 243 .04 856 .01 99 .001 74 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Big Slime",
+      "name": "大史莱姆",
+      "base_health": 60,
+      "base_damage": 5,
+      "drops_rule": "766 .99 766 .9 766 .4 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Serpent",
+      "name": "飞蛇",
+      "base_health": 150,
+      "base_damage": 23,
+      "drops_rule": "769 .99 769 .15 287 .15 226 .06 446 .008 74 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Pepper Rex",
+      "name": "霸王喷火龙",
+      "base_health": 300,
+      "base_damage": 15,
+      "drops_rule": "80 0",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Tiger Slime",
+      "name": "老虎史莱姆",
+      "base_health": 415,
+      "base_damage": 23,
+      "drops_rule": "766 .8 157 .1 -4 .1 72 .01 92 .5 98 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Lava Lurk",
+      "name": "熔岩潜伏怪",
+      "base_health": 220,
+      "base_damage": 15,
+      "drops_rule": "881 .5 881 .4 881 .2 852 .15",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Hot Head",
+      "name": "熔岩大头",
+      "base_health": 250,
+      "base_damage": 18,
+      "drops_rule": "768 .65 287 .1 378 .1 378 .1 380 .1 380 .1 382 .1 833 .1 833 .1 98 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Magma Sprite",
+      "name": "熔岩精灵",
+      "base_health": 220,
+      "base_damage": 15,
+      "drops_rule": "848 .5 848 .2",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Magma Duggy",
+      "name": "熔岩掘地虫",
+      "base_health": 380,
+      "base_damage": 16,
+      "drops_rule": "831 .5 831 .5 288 .4 848 .4 848 .15",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Magma Sparker",
+      "name": "熔岩火球",
+      "base_health": 310,
+      "base_damage": 15,
+      "drops_rule": "848 .5 848 .2",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "False Magma Cap",
+      "name": "假熔岩菇",
+      "base_health": 290,
+      "base_damage": 15,
+      "drops_rule": "851 .99 848 .5 848 .2",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Dwarvish Sentry",
+      "name": "矮人哨兵",
+      "base_health": 300,
+      "base_damage": 18,
+      "drops_rule": "60 .1 62 .1 64 .1 66 .1 68 .1 70 .1 72 .1",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Putrid Ghost",
+      "name": "腐臭幽灵",
+      "base_health": 500,
+      "base_damage": 25,
+      "drops_rule": "749 .99",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Shadow Sniper",
+      "name": "暗影狙击手",
+      "base_health": 300,
+      "base_damage": 18,
+      "drops_rule": "769 .75 769 .1 337 .002 336 .01 335 .02 334 .04 203 .04 108 .003 -4 .1 98 .005 99 .001 74 .0005",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Spider",
+      "name": "蜘蛛",
+      "base_health": 200,
+      "base_damage": 15,
+      "drops_rule": "769 .75 769 .1 337 .002 336 .01 335 .02 334 .04 203 .04 108 .003 -4 .1 98 .005 99 .001 74 .0005",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Royal Serpent",
+      "name": "皇家飞蛇",
+      "base_health": 150,
+      "base_damage": 23,
+      "drops_rule": "769 .99 769 .15 287 .15 226 .06 446 .008 74 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    },
+    {
+      "id": "Blue Squid",
+      "name": "蓝鱿鱼",
+      "base_health": 80,
+      "base_damage": 18,
+      "drops_rule": "768 .75 814 .2 336 .05 287 .1 288 .05 98 .005 99 .001",
+      "source_asset": "Data/Monsters",
+      "note": "原始模板；矿层、危险模式和代码变体可改变实际属性，含旧版/场景保留条目"
+    }
+  ],
+  "characters": [
+    {
+      "id": "Abigail",
+      "name": "阿比盖尔",
+      "birthday": "秋13",
+      "romance": true,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Caroline",
+      "name": "卡洛琳",
+      "birthday": "冬7",
+      "romance": false,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Clint",
+      "name": "克林特",
+      "birthday": "冬26",
+      "romance": false,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Demetrius",
+      "name": "德米特里厄斯",
+      "birthday": "夏19",
+      "romance": false,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Willy",
+      "name": "威利",
+      "birthday": "夏24",
+      "romance": false,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Elliott",
+      "name": "艾利欧特",
+      "birthday": "秋5",
+      "romance": true,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Emily",
+      "name": "艾米丽",
+      "birthday": "春27",
+      "romance": true,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Evelyn",
+      "name": "艾芙琳",
+      "birthday": "冬20",
+      "romance": false,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "George",
+      "name": "乔治",
+      "birthday": "秋24",
+      "romance": false,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Gus",
+      "name": "格斯",
+      "birthday": "夏8",
+      "romance": false,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Haley",
+      "name": "海莉",
+      "birthday": "春14",
+      "romance": true,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Harvey",
+      "name": "哈维",
+      "birthday": "冬14",
+      "romance": true,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Jas",
+      "name": "贾斯",
+      "birthday": "夏4",
+      "romance": false,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Jodi",
+      "name": "乔迪",
+      "birthday": "秋11",
+      "romance": false,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Alex",
+      "name": "亚历克斯",
+      "birthday": "夏13",
+      "romance": true,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Kent",
+      "name": "肯特",
+      "birthday": "春4",
+      "romance": false,
+      "socialize": null,
+      "unlock": "YEAR 2",
+      "region": "Town"
+    },
+    {
+      "id": "Leah",
+      "name": "莉亚",
+      "birthday": "冬23",
+      "romance": true,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Lewis",
+      "name": "刘易斯",
+      "birthday": "春7",
+      "romance": false,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Linus",
+      "name": "莱纳斯",
+      "birthday": "冬3",
+      "romance": false,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Marlon",
+      "name": "马龙",
+      "birthday": null,
+      "romance": false,
+      "socialize": "FALSE",
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Marnie",
+      "name": "玛妮",
+      "birthday": "秋18",
+      "romance": false,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Maru",
+      "name": "玛鲁",
+      "birthday": "夏10",
+      "romance": true,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Pam",
+      "name": "潘姆",
+      "birthday": "春18",
+      "romance": false,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Penny",
+      "name": "潘妮",
+      "birthday": "秋2",
+      "romance": true,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Pierre",
+      "name": "皮埃尔",
+      "birthday": "春26",
+      "romance": false,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Robin",
+      "name": "罗宾",
+      "birthday": "秋21",
+      "romance": false,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Sam",
+      "name": "山姆",
+      "birthday": "夏17",
+      "romance": true,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Sebastian",
+      "name": "塞巴斯蒂安",
+      "birthday": "冬10",
+      "romance": true,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Shane",
+      "name": "谢恩",
+      "birthday": "春20",
+      "romance": true,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Vincent",
+      "name": "文森特",
+      "birthday": "春10",
+      "romance": false,
+      "socialize": null,
+      "unlock": null,
+      "region": "Town"
+    },
+    {
+      "id": "Wizard",
+      "name": "法师",
+      "birthday": "冬17",
+      "romance": false,
+      "socialize": null,
+      "unlock": null,
+      "region": "Other"
+    },
+    {
+      "id": "Dwarf",
+      "name": "矮人",
+      "birthday": "夏22",
+      "romance": false,
+      "socialize": null,
+      "unlock": null,
+      "region": "Other"
+    },
+    {
+      "id": "Sandy",
+      "name": "桑迪",
+      "birthday": "秋15",
+      "romance": false,
+      "socialize": "PLAYER_HAS_SEEN_EVENT Any 67",
+      "unlock": null,
+      "region": "Desert"
+    },
+    {
+      "id": "Krobus",
+      "name": "科罗布斯",
+      "birthday": "冬1",
+      "romance": false,
+      "socialize": null,
+      "unlock": null,
+      "region": "Other"
+    },
+    {
+      "id": "Leo",
+      "name": "雷欧",
+      "birthday": "夏26",
+      "romance": false,
+      "socialize": null,
+      "unlock": "PLAYER_HAS_MAIL Host addedParrotBoy",
+      "region": "Other"
+    },
+    {
+      "id": "???",
+      "name": "???",
+      "birthday": null,
+      "romance": false,
+      "socialize": "FALSE",
+      "unlock": null,
+      "region": "Other"
+    },
+    {
+      "id": "Bear",
+      "name": "熊",
+      "birthday": null,
+      "romance": false,
+      "socialize": "FALSE",
+      "unlock": null,
+      "region": "Other"
+    },
+    {
+      "id": "Birdie",
+      "name": "贝啼",
+      "birthday": null,
+      "romance": false,
+      "socialize": "FALSE",
+      "unlock": null,
+      "region": "Other"
+    },
+    {
+      "id": "Bouncer",
+      "name": "门卫",
+      "birthday": null,
+      "romance": false,
+      "socialize": "FALSE",
+      "unlock": "!PLAYER_HAS_MAIL Any bouncerGone",
+      "region": "Other"
+    },
+    {
+      "id": "Gil",
+      "name": "吉尔",
+      "birthday": null,
+      "romance": false,
+      "socialize": "FALSE",
+      "unlock": null,
+      "region": "Other"
+    },
+    {
+      "id": "Governor",
+      "name": "州长",
+      "birthday": null,
+      "romance": false,
+      "socialize": "FALSE",
+      "unlock": null,
+      "region": "Other"
+    },
+    {
+      "id": "Grandpa",
+      "name": "爷爷",
+      "birthday": null,
+      "romance": false,
+      "socialize": "FALSE",
+      "unlock": null,
+      "region": "Other"
+    },
+    {
+      "id": "Gunther",
+      "name": "冈瑟",
+      "birthday": null,
+      "romance": false,
+      "socialize": "FALSE",
+      "unlock": null,
+      "region": "Other"
+    },
+    {
+      "id": "Henchman",
+      "name": "仆从",
+      "birthday": null,
+      "romance": false,
+      "socialize": "FALSE",
+      "unlock": "!PLAYER_HAS_MAIL Any henchmanGone",
+      "region": "Other"
+    },
+    {
+      "id": "Mister Qi",
+      "name": "齐先生",
+      "birthday": null,
+      "romance": false,
+      "socialize": "FALSE",
+      "unlock": null,
+      "region": "Other"
+    },
+    {
+      "id": "Morris",
+      "name": "莫里斯",
+      "birthday": null,
+      "romance": false,
+      "socialize": "FALSE",
+      "unlock": null,
+      "region": "Other"
+    },
+    {
+      "id": "Old Mariner",
+      "name": "老水手",
+      "birthday": null,
+      "romance": false,
+      "socialize": "FALSE",
+      "unlock": null,
+      "region": "Other"
+    },
+    {
+      "id": "Welwick",
+      "name": "维尔维克",
+      "birthday": null,
+      "romance": false,
+      "socialize": "FALSE",
+      "unlock": null,
+      "region": "Other"
+    }
+  ],
+  "locations": [
+    {
+      "id": "Default",
+      "name": "Default",
+      "plantable": null,
+      "created_on_load": null,
+      "fish_rules": 3,
+      "forage_rules": 0
+    },
+    {
+      "id": "Farm_Standard",
+      "name": "Farm_Standard",
+      "plantable": true,
+      "created_on_load": null,
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "Farm_Beach",
+      "name": "Farm_Beach",
+      "plantable": true,
+      "created_on_load": null,
+      "fish_rules": 4,
+      "forage_rules": 0
+    },
+    {
+      "id": "Farm_Forest",
+      "name": "Farm_Forest",
+      "plantable": true,
+      "created_on_load": null,
+      "fish_rules": 2,
+      "forage_rules": 0
+    },
+    {
+      "id": "Farm_FourCorners",
+      "name": "Farm_FourCorners",
+      "plantable": true,
+      "created_on_load": null,
+      "fish_rules": 2,
+      "forage_rules": 0
+    },
+    {
+      "id": "Farm_Hilltop",
+      "name": "Farm_Hilltop",
+      "plantable": true,
+      "created_on_load": null,
+      "fish_rules": 1,
+      "forage_rules": 0
+    },
+    {
+      "id": "Farm_Riverland",
+      "name": "Farm_Riverland",
+      "plantable": true,
+      "created_on_load": null,
+      "fish_rules": 2,
+      "forage_rules": 0
+    },
+    {
+      "id": "Farm_Wilderness",
+      "name": "Farm_Wilderness",
+      "plantable": true,
+      "created_on_load": null,
+      "fish_rules": 1,
+      "forage_rules": 0
+    },
+    {
+      "id": "Farm_MeadowlandsFarm",
+      "name": "Farm_MeadowlandsFarm",
+      "plantable": true,
+      "created_on_load": null,
+      "fish_rules": 1,
+      "forage_rules": 0
+    },
+    {
+      "id": "FarmHouse",
+      "name": "FarmHouse",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\FarmHouse",
+        "Type": "StardewValley.Locations.FarmHouse",
+        "AlwaysActive": true
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "FarmCave",
+      "name": "FarmCave",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\FarmCave",
+        "Type": "StardewValley.Locations.FarmCave",
+        "AlwaysActive": true
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "Town",
+      "name": "鹈鹕镇",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Town",
+        "Type": "StardewValley.Locations.Town",
+        "AlwaysActive": false
+      },
+      "fish_rules": 18,
+      "forage_rules": 6
+    },
+    {
+      "id": "JoshHouse",
+      "name": "乔治、艾芙琳和亚历克斯的家",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\JoshHouse",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "HaleyHouse",
+      "name": "艾米丽和海莉的家",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\HaleyHouse",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "SamHouse",
+      "name": "乔迪，肯特和山姆的家",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\SamHouse",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "Blacksmith",
+      "name": "铁匠",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Blacksmith",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "ManorHouse",
+      "name": "镇长的庄园",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\ManorHouse",
+        "Type": "StardewValley.Locations.ManorHouse",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "SeedShop",
+      "name": "皮埃尔的杂货店",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\SeedShop",
+        "Type": "StardewValley.Locations.SeedShop",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "Saloon",
+      "name": "星之果实酒吧",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Saloon",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "Trailer",
+      "name": "潘姆和潘妮之家",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Trailer",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "Hospital",
+      "name": "哈维的诊所",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Hospital",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "HarveyRoom",
+      "name": "HarveyRoom",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\HarveyRoom",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "Beach",
+      "name": "棕榈镇海滩",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Beach",
+        "Type": "StardewValley.Locations.Beach",
+        "AlwaysActive": false
+      },
+      "fish_rules": 23,
+      "forage_rules": 10
+    },
+    {
+      "id": "BeachNightMarket",
+      "name": "BeachNightMarket",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Beach-NightMarket",
+        "Type": "StardewValley.Locations.BeachNightMarket",
+        "AlwaysActive": false
+      },
+      "fish_rules": 2,
+      "forage_rules": 0
+    },
+    {
+      "id": "ElliottHouse",
+      "name": "艾利欧特小屋",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\ElliottHouse",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "Mountain",
+      "name": "山",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Mountain",
+        "Type": "StardewValley.Locations.Mountain",
+        "AlwaysActive": false
+      },
+      "fish_rules": 14,
+      "forage_rules": 10
+    },
+    {
+      "id": "ScienceHouse",
+      "name": "木匠的商店",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\ScienceHouse",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "SebastianRoom",
+      "name": "SebastianRoom",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\SebastianRoom",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "Tent",
+      "name": "帐篷",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Tent",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "Forest",
+      "name": "煤矿森林",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Forest",
+        "Type": "StardewValley.Locations.Forest",
+        "AlwaysActive": false
+      },
+      "fish_rules": 23,
+      "forage_rules": 9
+    },
+    {
+      "id": "WizardHouse",
+      "name": "法师塔",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\WizardHouse",
+        "Type": "StardewValley.Locations.WizardHouse",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "AnimalShop",
+      "name": "玛妮的牧场",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\AnimalShop",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "LeahHouse",
+      "name": "莉亚的农舍",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\LeahHouse",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "BusStop",
+      "name": "巴士站",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\BusStop",
+        "Type": "StardewValley.Locations.BusStop",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 11
+    },
+    {
+      "id": "Mine",
+      "name": "矿井",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Mine",
+        "Type": "StardewValley.Locations.Mine",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "Sewer",
+      "name": "下水道",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Sewer",
+        "Type": "StardewValley.Locations.Sewer",
+        "AlwaysActive": false
+      },
+      "fish_rules": 5,
+      "forage_rules": 0
+    },
+    {
+      "id": "BugLand",
+      "name": "BugLand",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\BugLand",
+        "Type": "StardewValley.Locations.BugLand",
+        "AlwaysActive": false
+      },
+      "fish_rules": 4,
+      "forage_rules": 0
+    },
+    {
+      "id": "Desert",
+      "name": "卡利科沙漠",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Desert",
+        "Type": "StardewValley.Locations.Desert",
+        "AlwaysActive": false
+      },
+      "fish_rules": 5,
+      "forage_rules": 2
+    },
+    {
+      "id": "Club",
+      "name": "Club",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Club",
+        "Type": "StardewValley.Locations.Club",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "SandyHouse",
+      "name": "SandyHouse",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\SandyHouse",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "ArchaeologyHouse",
+      "name": "星露谷博物馆和图书馆",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\ArchaeologyHouse",
+        "Type": "StardewValley.Locations.LibraryMuseum",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "WizardHouseBasement",
+      "name": "法师塔",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\WizardHouseBasement",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "AdventureGuild",
+      "name": "探险家公会",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\AdventureGuild",
+        "Type": "StardewValley.Locations.AdventureGuild",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "Woods",
+      "name": "秘密树林",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Woods",
+        "Type": "StardewValley.Locations.Woods",
+        "AlwaysActive": false
+      },
+      "fish_rules": 5,
+      "forage_rules": 9
+    },
+    {
+      "id": "Railroad",
+      "name": "铁路",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Railroad",
+        "Type": "StardewValley.Locations.Railroad",
+        "AlwaysActive": false
+      },
+      "fish_rules": 1,
+      "forage_rules": 11
+    },
+    {
+      "id": "WitchSwamp",
+      "name": "WitchSwamp",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\WitchSwamp",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 5,
+      "forage_rules": 0
+    },
+    {
+      "id": "WitchHut",
+      "name": "WitchHut",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\WitchHut",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "WitchWarpCave",
+      "name": "WitchWarpCave",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\WitchWarpCave",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "Summit",
+      "name": "Summit",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Summit",
+        "Type": "StardewValley.Locations.Summit",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "FishShop",
+      "name": "鱼店",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\FishShop",
+        "Type": "StardewValley.Locations.FishShop",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "BathHouse_Entry",
+      "name": "温泉",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\BathHouse_Entry",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "BathHouse_MensLocker",
+      "name": "温泉",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\BathHouse_MensLocker",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "BathHouse_WomensLocker",
+      "name": "温泉",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\BathHouse_WomensLocker",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "BathHouse_Pool",
+      "name": "温泉",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\BathHouse_Pool",
+        "Type": "StardewValley.Locations.BathHousePool",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "CommunityCenter",
+      "name": "社区中心",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\CommunityCenter_Ruins",
+        "Type": "StardewValley.Locations.CommunityCenter",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "JojaMart",
+      "name": "Joja 超市",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\JojaMart",
+        "Type": "StardewValley.Locations.JojaMart",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "Greenhouse",
+      "name": "Greenhouse",
+      "plantable": true,
+      "created_on_load": {
+        "MapPath": "Maps\\Greenhouse",
+        "Type": null,
+        "AlwaysActive": true
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "SkullCave",
+      "name": "SkullCave",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\SkullCave",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "Backwoods",
+      "name": "边远森林",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Backwoods",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 11,
+      "forage_rules": 10
+    },
+    {
+      "id": "Tunnel",
+      "name": "隧道",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Tunnel",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "Trailer_Big",
+      "name": "潘姆和潘妮之家",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Trailer_big",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "Cellar",
+      "name": "Cellar",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Cellar",
+        "Type": "StardewValley.Locations.Cellar",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "MermaidHouse",
+      "name": "MermaidHouse",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\MermaidHouse",
+        "Type": "StardewValley.Locations.MermaidHouse",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "Submarine",
+      "name": "Submarine",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Submarine",
+        "Type": "StardewValley.Locations.Submarine",
+        "AlwaysActive": false
+      },
+      "fish_rules": 9,
+      "forage_rules": 0
+    },
+    {
+      "id": "AbandonedJojaMart",
+      "name": "废弃 Joja 超市",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\AbandonedJojaMart",
+        "Type": "StardewValley.Locations.AbandonedJojaMart",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "MovieTheater",
+      "name": "电影院",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\MovieTheater",
+        "Type": "StardewValley.Locations.MovieTheater",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "Sunroom",
+      "name": "Sunroom",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Sunroom",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "BoatTunnel",
+      "name": "BoatTunnel",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\BoatTunnel",
+        "Type": "StardewValley.Locations.BoatTunnel",
+        "AlwaysActive": false
+      },
+      "fish_rules": 1,
+      "forage_rules": 0
+    },
+    {
+      "id": "IslandSouth",
+      "name": "IslandSouth",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Island_S",
+        "Type": "StardewValley.Locations.IslandSouth",
+        "AlwaysActive": false
+      },
+      "fish_rules": 6,
+      "forage_rules": 0
+    },
+    {
+      "id": "IslandSouthEast",
+      "name": "IslandSouthEast",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Island_SE",
+        "Type": "StardewValley.Locations.IslandSouthEast",
+        "AlwaysActive": false
+      },
+      "fish_rules": 6,
+      "forage_rules": 0
+    },
+    {
+      "id": "IslandSouthEastCave",
+      "name": "IslandSouthEastCave",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\IslandSouthEastCave",
+        "Type": "StardewValley.Locations.IslandSouthEastCave",
+        "AlwaysActive": false
+      },
+      "fish_rules": 7,
+      "forage_rules": 0
+    },
+    {
+      "id": "IslandEast",
+      "name": "IslandEast",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Island_E",
+        "Type": "StardewValley.Locations.IslandEast",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "IslandWest",
+      "name": "IslandWest",
+      "plantable": true,
+      "created_on_load": {
+        "MapPath": "Maps\\Island_W",
+        "Type": "StardewValley.Locations.IslandWest",
+        "AlwaysActive": false
+      },
+      "fish_rules": 12,
+      "forage_rules": 0
+    },
+    {
+      "id": "IslandNorth",
+      "name": "IslandNorth",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Island_N",
+        "Type": "StardewValley.Locations.IslandNorth",
+        "AlwaysActive": false
+      },
+      "fish_rules": 7,
+      "forage_rules": 0
+    },
+    {
+      "id": "IslandHut",
+      "name": "IslandHut",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Island_Hut",
+        "Type": "StardewValley.Locations.IslandHut",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "IslandWestCave1",
+      "name": "IslandWestCave1",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\IslandWestCave1",
+        "Type": "StardewValley.Locations.IslandWestCave1",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "IslandNorthCave1",
+      "name": "IslandNorthCave1",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\IslandNorthCave1",
+        "Type": "StardewValley.Locations.IslandLocation",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 6
+    },
+    {
+      "id": "IslandFieldOffice",
+      "name": "IslandFieldOffice",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Island_FieldOffice",
+        "Type": "StardewValley.Locations.IslandFieldOffice",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "IslandFarmHouse",
+      "name": "IslandFarmHouse",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\IslandFarmHouse",
+        "Type": "StardewValley.Locations.IslandFarmHouse",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "CaptainRoom",
+      "name": "CaptainRoom",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Island_CaptainRoom",
+        "Type": "StardewValley.Locations.IslandLocation",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "IslandShrine",
+      "name": "IslandShrine",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Island_Shrine",
+        "Type": "StardewValley.Locations.IslandShrine",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "IslandFarmCave",
+      "name": "IslandFarmCave",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Island_FarmCave",
+        "Type": "StardewValley.Locations.IslandFarmCave",
+        "AlwaysActive": false
+      },
+      "fish_rules": 1,
+      "forage_rules": 0
+    },
+    {
+      "id": "Caldera",
+      "name": "Caldera",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Caldera",
+        "Type": "StardewValley.Locations.Caldera",
+        "AlwaysActive": false
+      },
+      "fish_rules": 9,
+      "forage_rules": 0
+    },
+    {
+      "id": "LeoTreeHouse",
+      "name": "LeoTreeHouse",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\LeoTreeHouse",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "UndergroundMine",
+      "name": "UndergroundMine",
+      "plantable": null,
+      "created_on_load": null,
+      "fish_rules": 4,
+      "forage_rules": 0
+    },
+    {
+      "id": "QiNutRoom",
+      "name": "QiNutRoom",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\QiNutRoom",
+        "Type": "StardewValley.Locations.IslandLocation",
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "MasteryCave",
+      "name": "MasteryCave",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\MasteryCave",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    },
+    {
+      "id": "DesertFestival",
+      "name": "DesertFestival",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\Desert-Festival",
+        "Type": "StardewValley.Locations.DesertFestival",
+        "AlwaysActive": false
+      },
+      "fish_rules": 1,
+      "forage_rules": 0
+    },
+    {
+      "id": "fishingGame",
+      "name": "fishingGame",
+      "plantable": null,
+      "created_on_load": null,
+      "fish_rules": 7,
+      "forage_rules": 0
+    },
+    {
+      "id": "Temp",
+      "name": "Temp",
+      "plantable": null,
+      "created_on_load": null,
+      "fish_rules": 11,
+      "forage_rules": 0
+    },
+    {
+      "id": "LewisBasement",
+      "name": "LewisBasement",
+      "plantable": null,
+      "created_on_load": {
+        "MapPath": "Maps\\LewisBasement",
+        "Type": null,
+        "AlwaysActive": false
+      },
+      "fish_rules": 0,
+      "forage_rules": 0
+    }
+  ],
+  "forage_spawn_rules": [
+    {
+      "location": "Town",
+      "id": "(O)18",
+      "name": "黄水仙",
+      "season": "春",
+      "condition": null,
+      "chance": 0.9
+    },
+    {
+      "location": "Town",
+      "id": "(O)402",
+      "name": "甜豌豆",
+      "season": "夏",
+      "condition": null,
+      "chance": 0.9
+    },
+    {
+      "location": "Town",
+      "id": "(O)410",
+      "name": "黑莓",
+      "season": "秋",
+      "condition": null,
+      "chance": 0.6
+    },
+    {
+      "location": "Town",
+      "id": "(O)418",
+      "name": "番红花",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.7
+    },
+    {
+      "location": "Town",
+      "id": "(O)414",
+      "name": "水晶果",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.1
+    },
+    {
+      "location": "Town",
+      "id": "(O)283",
+      "name": "冬青树",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.5
+    },
+    {
+      "location": "Beach",
+      "id": "(O)372",
+      "name": "蛤",
+      "season": null,
+      "condition": "LOCATION_SEASON Here spring summer fall",
+      "chance": 0.9
+    },
+    {
+      "location": "Beach",
+      "id": "(O)718",
+      "name": "鸟蛤",
+      "season": null,
+      "condition": "LOCATION_SEASON Here spring summer fall",
+      "chance": 0.1
+    },
+    {
+      "location": "Beach",
+      "id": "(O)719",
+      "name": "蚌",
+      "season": null,
+      "condition": "LOCATION_SEASON Here spring summer fall",
+      "chance": 0.3
+    },
+    {
+      "location": "Beach",
+      "id": "(O)723",
+      "name": "牡蛎",
+      "season": null,
+      "condition": "LOCATION_SEASON Here spring summer fall",
+      "chance": 0.3
+    },
+    {
+      "location": "Beach",
+      "id": "(O)394",
+      "name": "彩虹贝壳",
+      "season": "夏",
+      "condition": null,
+      "chance": 0.5
+    },
+    {
+      "location": "Beach",
+      "id": "(O)372",
+      "name": "蛤",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.4
+    },
+    {
+      "location": "Beach",
+      "id": "(O)392",
+      "name": "鹦鹉螺",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.8
+    },
+    {
+      "location": "Beach",
+      "id": "(O)718",
+      "name": "鸟蛤",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.05
+    },
+    {
+      "location": "Beach",
+      "id": "(O)719",
+      "name": "蚌",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.2
+    },
+    {
+      "location": "Beach",
+      "id": "(O)723",
+      "name": "牡蛎",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.2
+    },
+    {
+      "location": "Mountain",
+      "id": "(O)20",
+      "name": "韭葱",
+      "season": "春",
+      "condition": null,
+      "chance": 0.7
+    },
+    {
+      "location": "Mountain",
+      "id": "(O)16",
+      "name": "野山葵",
+      "season": "春",
+      "condition": null,
+      "chance": 0.5
+    },
+    {
+      "location": "Mountain",
+      "id": "(O)396",
+      "name": "香味浆果",
+      "season": "夏",
+      "condition": null,
+      "chance": 0.5
+    },
+    {
+      "location": "Mountain",
+      "id": "(O)398",
+      "name": "葡萄",
+      "season": "夏",
+      "condition": null,
+      "chance": 0.8
+    },
+    {
+      "location": "Mountain",
+      "id": "(O)404",
+      "name": "普通蘑菇",
+      "season": "秋",
+      "condition": null,
+      "chance": 0.4
+    },
+    {
+      "location": "Mountain",
+      "id": "(O)406",
+      "name": "野梅",
+      "season": "秋",
+      "condition": null,
+      "chance": 0.4
+    },
+    {
+      "location": "Mountain",
+      "id": "(O)408",
+      "name": "榛子",
+      "season": "秋",
+      "condition": null,
+      "chance": 0.9
+    },
+    {
+      "location": "Mountain",
+      "id": "(O)414",
+      "name": "水晶果",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.85
+    },
+    {
+      "location": "Mountain",
+      "id": "(O)418",
+      "name": "番红花",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.9
+    },
+    {
+      "location": "Mountain",
+      "id": "(O)283",
+      "name": "冬青树",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.5
+    },
+    {
+      "location": "Forest",
+      "id": "(O)16",
+      "name": "野山葵",
+      "season": "春",
+      "condition": null,
+      "chance": 0.9
+    },
+    {
+      "location": "Forest",
+      "id": "(O)22",
+      "name": "蒲公英",
+      "season": "春",
+      "condition": null,
+      "chance": 0.9
+    },
+    {
+      "location": "Forest",
+      "id": "(O)396",
+      "name": "香味浆果",
+      "season": "夏",
+      "condition": null,
+      "chance": 0.6
+    },
+    {
+      "location": "Forest",
+      "id": "(O)402",
+      "name": "甜豌豆",
+      "season": "夏",
+      "condition": null,
+      "chance": 0.9
+    },
+    {
+      "location": "Forest",
+      "id": "(O)404",
+      "name": "普通蘑菇",
+      "season": "秋",
+      "condition": null,
+      "chance": 0.9
+    },
+    {
+      "location": "Forest",
+      "id": "(O)410",
+      "name": "黑莓",
+      "season": "秋",
+      "condition": null,
+      "chance": 0.9
+    },
+    {
+      "location": "Forest",
+      "id": "(O)418",
+      "name": "番红花",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.9
+    },
+    {
+      "location": "Forest",
+      "id": "(O)414",
+      "name": "水晶果",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.9
+    },
+    {
+      "location": "Forest",
+      "id": "(O)283",
+      "name": "冬青树",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.5
+    },
+    {
+      "location": "BusStop",
+      "id": "(O)18",
+      "name": "黄水仙",
+      "season": "春",
+      "condition": null,
+      "chance": 0.9
+    },
+    {
+      "location": "BusStop",
+      "id": "(O)20",
+      "name": "韭葱",
+      "season": "春",
+      "condition": null,
+      "chance": 0.4
+    },
+    {
+      "location": "BusStop",
+      "id": "(O)22",
+      "name": "蒲公英",
+      "season": "春",
+      "condition": null,
+      "chance": 0.7
+    },
+    {
+      "location": "BusStop",
+      "id": "(O)396",
+      "name": "香味浆果",
+      "season": "夏",
+      "condition": null,
+      "chance": 0.4
+    },
+    {
+      "location": "BusStop",
+      "id": "(O)398",
+      "name": "葡萄",
+      "season": "夏",
+      "condition": null,
+      "chance": 0.4
+    },
+    {
+      "location": "BusStop",
+      "id": "(O)402",
+      "name": "甜豌豆",
+      "season": "夏",
+      "condition": null,
+      "chance": 0.7
+    },
+    {
+      "location": "BusStop",
+      "id": "(O)406",
+      "name": "野梅",
+      "season": "秋",
+      "condition": null,
+      "chance": 0.6
+    },
+    {
+      "location": "BusStop",
+      "id": "(O)408",
+      "name": "榛子",
+      "season": "秋",
+      "condition": null,
+      "chance": 0.4
+    },
+    {
+      "location": "BusStop",
+      "id": "(O)414",
+      "name": "水晶果",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.33
+    },
+    {
+      "location": "BusStop",
+      "id": "(O)418",
+      "name": "番红花",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.6
+    },
+    {
+      "location": "BusStop",
+      "id": "(O)283",
+      "name": "冬青树",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.5
+    },
+    {
+      "location": "Desert",
+      "id": "(O)88",
+      "name": "椰子",
+      "season": null,
+      "condition": null,
+      "chance": 0.5
+    },
+    {
+      "location": "Desert",
+      "id": "(O)90",
+      "name": "仙人掌果子",
+      "season": null,
+      "condition": null,
+      "chance": 0.5
+    },
+    {
+      "location": "Woods",
+      "id": "(O)257",
+      "name": "羊肚菌",
+      "season": "春",
+      "condition": null,
+      "chance": 0.5
+    },
+    {
+      "location": "Woods",
+      "id": "(O)404",
+      "name": "普通蘑菇",
+      "season": "春",
+      "condition": null,
+      "chance": 0.25
+    },
+    {
+      "location": "Woods",
+      "id": "(O)16",
+      "name": "野山葵",
+      "season": "春",
+      "condition": null,
+      "chance": 0.8
+    },
+    {
+      "location": "Woods",
+      "id": "(O)259",
+      "name": "蕨菜",
+      "season": "夏",
+      "condition": null,
+      "chance": 0.9
+    },
+    {
+      "location": "Woods",
+      "id": "(O)420",
+      "name": "红蘑菇",
+      "season": "夏",
+      "condition": null,
+      "chance": 0.25
+    },
+    {
+      "location": "Woods",
+      "id": "(O)281",
+      "name": "鸡油菌",
+      "season": "秋",
+      "condition": null,
+      "chance": 0.5
+    },
+    {
+      "location": "Woods",
+      "id": "(O)404",
+      "name": "普通蘑菇",
+      "season": "秋",
+      "condition": null,
+      "chance": 0.6
+    },
+    {
+      "location": "Woods",
+      "id": "(O)420",
+      "name": "红蘑菇",
+      "season": "秋",
+      "condition": null,
+      "chance": 0.2
+    },
+    {
+      "location": "Woods",
+      "id": "(O)283",
+      "name": "冬青树",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.9
+    },
+    {
+      "location": "Railroad",
+      "id": "(O)18",
+      "name": "黄水仙",
+      "season": "春",
+      "condition": null,
+      "chance": 0.9
+    },
+    {
+      "location": "Railroad",
+      "id": "(O)20",
+      "name": "韭葱",
+      "season": "春",
+      "condition": null,
+      "chance": 0.4
+    },
+    {
+      "location": "Railroad",
+      "id": "(O)22",
+      "name": "蒲公英",
+      "season": "春",
+      "condition": null,
+      "chance": 0.7
+    },
+    {
+      "location": "Railroad",
+      "id": "(O)396",
+      "name": "香味浆果",
+      "season": "夏",
+      "condition": null,
+      "chance": 0.4
+    },
+    {
+      "location": "Railroad",
+      "id": "(O)398",
+      "name": "葡萄",
+      "season": "夏",
+      "condition": null,
+      "chance": 0.4
+    },
+    {
+      "location": "Railroad",
+      "id": "(O)402",
+      "name": "甜豌豆",
+      "season": "夏",
+      "condition": null,
+      "chance": 0.7
+    },
+    {
+      "location": "Railroad",
+      "id": "(O)406",
+      "name": "野梅",
+      "season": "秋",
+      "condition": null,
+      "chance": 0.6
+    },
+    {
+      "location": "Railroad",
+      "id": "(O)408",
+      "name": "榛子",
+      "season": "秋",
+      "condition": null,
+      "chance": 0.4
+    },
+    {
+      "location": "Railroad",
+      "id": "(O)410",
+      "name": "黑莓",
+      "season": "秋",
+      "condition": null,
+      "chance": 0.6
+    },
+    {
+      "location": "Railroad",
+      "id": "(O)414",
+      "name": "水晶果",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.8
+    },
+    {
+      "location": "Railroad",
+      "id": "(O)418",
+      "name": "番红花",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.8
+    },
+    {
+      "location": "Backwoods",
+      "id": "(O)20",
+      "name": "韭葱",
+      "season": "春",
+      "condition": null,
+      "chance": 0.7
+    },
+    {
+      "location": "Backwoods",
+      "id": "(O)16",
+      "name": "野山葵",
+      "season": "春",
+      "condition": null,
+      "chance": 0.5
+    },
+    {
+      "location": "Backwoods",
+      "id": "(O)396",
+      "name": "香味浆果",
+      "season": "夏",
+      "condition": null,
+      "chance": 0.5
+    },
+    {
+      "location": "Backwoods",
+      "id": "(O)398",
+      "name": "葡萄",
+      "season": "夏",
+      "condition": null,
+      "chance": 0.8
+    },
+    {
+      "location": "Backwoods",
+      "id": "(O)404",
+      "name": "普通蘑菇",
+      "season": "秋",
+      "condition": null,
+      "chance": 0.4
+    },
+    {
+      "location": "Backwoods",
+      "id": "(O)406",
+      "name": "野梅",
+      "season": "秋",
+      "condition": null,
+      "chance": 0.4
+    },
+    {
+      "location": "Backwoods",
+      "id": "(O)408",
+      "name": "榛子",
+      "season": "秋",
+      "condition": null,
+      "chance": 0.9
+    },
+    {
+      "location": "Backwoods",
+      "id": "(O)414",
+      "name": "水晶果",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.25
+    },
+    {
+      "location": "Backwoods",
+      "id": "(O)418",
+      "name": "番红花",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.4
+    },
+    {
+      "location": "Backwoods",
+      "id": "(O)283",
+      "name": "冬青树",
+      "season": "冬",
+      "condition": null,
+      "chance": 0.5
+    },
+    {
+      "location": "IslandNorthCave1",
+      "id": "(O)281",
+      "name": "鸡油菌",
+      "season": null,
+      "condition": null,
+      "chance": 0.9
+    },
+    {
+      "location": "IslandNorthCave1",
+      "id": "(O)404",
+      "name": "普通蘑菇",
+      "season": null,
+      "condition": null,
+      "chance": 0.9
+    },
+    {
+      "location": "IslandNorthCave1",
+      "id": "(O)420",
+      "name": "红蘑菇",
+      "season": "春",
+      "condition": null,
+      "chance": 0.5
+    },
+    {
+      "location": "IslandNorthCave1",
+      "id": "(O)422",
+      "name": "紫蘑菇",
+      "season": "春",
+      "condition": null,
+      "chance": 0.5
+    },
+    {
+      "location": "IslandNorthCave1",
+      "id": "(O)420",
+      "name": "红蘑菇",
+      "season": null,
+      "condition": "LOCATION_SEASON Here summer fall winter",
+      "chance": 0.9
+    },
+    {
+      "location": "IslandNorthCave1",
+      "id": "(O)422",
+      "name": "紫蘑菇",
+      "season": null,
+      "condition": "LOCATION_SEASON Here summer fall winter",
+      "chance": 0.9
+    }
+  ],
+  "standard_bundles": [
+    {
+      "id": "Pantry/0",
+      "name": "春季作物",
+      "reward_rule": "O 465 20",
+      "requirements": [
+        {
+          "id": "(O)24",
+          "name": "防风草",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)188",
+          "name": "青豆",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)190",
+          "name": "花椰菜",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)192",
+          "name": "土豆",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Pantry/1",
+      "name": "夏季作物",
+      "reward_rule": "O 621 1",
+      "requirements": [
+        {
+          "id": "(O)256",
+          "name": "西红柿",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)260",
+          "name": "辣椒",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)258",
+          "name": "蓝莓",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)254",
+          "name": "甜瓜",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Pantry/2",
+      "name": "秋季作物",
+      "reward_rule": "BO 10 1",
+      "requirements": [
+        {
+          "id": "(O)270",
+          "name": "玉米",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)272",
+          "name": "茄子",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)276",
+          "name": "南瓜",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)280",
+          "name": "山药",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Pantry/3",
+      "name": "高品质作物",
+      "reward_rule": "BO 15 1",
+      "requirements": [
+        {
+          "id": "(O)24",
+          "name": "防风草",
+          "count": 5,
+          "quality": 2
+        },
+        {
+          "id": "(O)254",
+          "name": "甜瓜",
+          "count": 5,
+          "quality": 2
+        },
+        {
+          "id": "(O)276",
+          "name": "南瓜",
+          "count": 5,
+          "quality": 2
+        },
+        {
+          "id": "(O)270",
+          "name": "玉米",
+          "count": 5,
+          "quality": 2
+        }
+      ],
+      "required_slots": "3"
+    },
+    {
+      "id": "Pantry/4",
+      "name": "动物",
+      "reward_rule": "BO 16 1",
+      "requirements": [
+        {
+          "id": "(O)186",
+          "name": "大壶牛奶",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)182",
+          "name": "大鸡蛋",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)174",
+          "name": "大鸡蛋",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)438",
+          "name": "大瓶羊奶",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)440",
+          "name": "动物毛",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)442",
+          "name": "鸭蛋",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": "5"
+    },
+    {
+      "id": "Pantry/5",
+      "name": "工匠",
+      "reward_rule": "BO 12 1",
+      "requirements": [
+        {
+          "id": "(O)432",
+          "name": "松露油",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)428",
+          "name": "布料",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)426",
+          "name": "山羊奶酪",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)424",
+          "name": "奶酪",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)340",
+          "name": "蜂蜜",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)344",
+          "name": "果酱",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)613",
+          "name": "苹果",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)634",
+          "name": "杏子",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)635",
+          "name": "橙子",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)636",
+          "name": "桃子",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)637",
+          "name": "石榴",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)638",
+          "name": "樱桃",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": "6"
+    },
+    {
+      "id": "Crafts Room/13",
+      "name": "春季采集",
+      "reward_rule": "O 495 30",
+      "requirements": [
+        {
+          "id": "(O)16",
+          "name": "野山葵",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)18",
+          "name": "黄水仙",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)20",
+          "name": "韭葱",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)22",
+          "name": "蒲公英",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Crafts Room/14",
+      "name": "夏季采集",
+      "reward_rule": "O 496 30",
+      "requirements": [
+        {
+          "id": "(O)396",
+          "name": "香味浆果",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)398",
+          "name": "葡萄",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)402",
+          "name": "甜豌豆",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Crafts Room/15",
+      "name": "秋季采集",
+      "reward_rule": "O 497 30",
+      "requirements": [
+        {
+          "id": "(O)404",
+          "name": "普通蘑菇",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)406",
+          "name": "野梅",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)408",
+          "name": "榛子",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)410",
+          "name": "黑莓",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Crafts Room/16",
+      "name": "冬季采集",
+      "reward_rule": "O 498 30",
+      "requirements": [
+        {
+          "id": "(O)412",
+          "name": "冬根",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)414",
+          "name": "水晶果",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)416",
+          "name": "雪山药",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)418",
+          "name": "番红花",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Crafts Room/17",
+      "name": "建筑",
+      "reward_rule": "BO 114 1",
+      "requirements": [
+        {
+          "id": "(O)388",
+          "name": "木材",
+          "count": 99,
+          "quality": 0
+        },
+        {
+          "id": "(O)388",
+          "name": "木材",
+          "count": 99,
+          "quality": 0
+        },
+        {
+          "id": "(O)390",
+          "name": "石头",
+          "count": 99,
+          "quality": 0
+        },
+        {
+          "id": "(O)709",
+          "name": "硬木",
+          "count": 10,
+          "quality": 0
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Crafts Room/19",
+      "name": "异国情调采集",
+      "reward_rule": "O 235 5",
+      "requirements": [
+        {
+          "id": "(O)88",
+          "name": "椰子",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)90",
+          "name": "仙人掌果子",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)78",
+          "name": "山洞萝卜",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)420",
+          "name": "红蘑菇",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)422",
+          "name": "紫蘑菇",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)724",
+          "name": "枫糖浆",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)725",
+          "name": "橡树树脂",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)726",
+          "name": "松焦油",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)257",
+          "name": "羊肚菌",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": "5"
+    },
+    {
+      "id": "Fish Tank/6",
+      "name": "河鱼",
+      "reward_rule": "O DeluxeBait 30",
+      "requirements": [
+        {
+          "id": "(O)145",
+          "name": "太阳鱼",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)143",
+          "name": "鲶鱼",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)706",
+          "name": "西鲱",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)699",
+          "name": "虎纹鳟鱼",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Fish Tank/7",
+      "name": "湖鱼",
+      "reward_rule": "O 687 1",
+      "requirements": [
+        {
+          "id": "(O)136",
+          "name": "大嘴鲈鱼",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)142",
+          "name": "鲤鱼",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)700",
+          "name": "大头鱼",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)698",
+          "name": "鲟鱼",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Fish Tank/8",
+      "name": "海鱼",
+      "reward_rule": "O 690 5",
+      "requirements": [
+        {
+          "id": "(O)131",
+          "name": "沙丁鱼",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)130",
+          "name": "金枪鱼",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)150",
+          "name": "红鲷鱼",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)701",
+          "name": "罗非鱼",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Fish Tank/9",
+      "name": "夜间垂钓",
+      "reward_rule": "R 517 1",
+      "requirements": [
+        {
+          "id": "(O)140",
+          "name": "大眼鱼",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)132",
+          "name": "鲷鱼",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)148",
+          "name": "鳗鱼",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Fish Tank/10",
+      "name": "特色鱼类",
+      "reward_rule": "O 242 5",
+      "requirements": [
+        {
+          "id": "(O)128",
+          "name": "河豚",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)156",
+          "name": "鬼鱼",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)164",
+          "name": "沙鱼",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)734",
+          "name": "木跃鱼",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Fish Tank/11",
+      "name": "蟹笼",
+      "reward_rule": "O 710 3",
+      "requirements": [
+        {
+          "id": "(O)715",
+          "name": "龙虾",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)716",
+          "name": "小龙虾",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)717",
+          "name": "螃蟹",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)718",
+          "name": "鸟蛤",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)719",
+          "name": "蚌",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)720",
+          "name": "虾",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)721",
+          "name": "蜗牛",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)722",
+          "name": "玉黍螺",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)723",
+          "name": "牡蛎",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)372",
+          "name": "蛤",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": "5"
+    },
+    {
+      "id": "Boiler Room/20",
+      "name": "铁匠的",
+      "reward_rule": "BO 13 1",
+      "requirements": [
+        {
+          "id": "(O)334",
+          "name": "铜锭",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)335",
+          "name": "铁锭",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)336",
+          "name": "金锭",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Boiler Room/21",
+      "name": "地理学家的",
+      "reward_rule": "O 749 5",
+      "requirements": [
+        {
+          "id": "(O)80",
+          "name": "石英",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)86",
+          "name": "地晶",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)84",
+          "name": "泪晶",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)82",
+          "name": "火水晶",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Boiler Room/22",
+      "name": "冒险家的",
+      "reward_rule": "R 518 1",
+      "requirements": [
+        {
+          "id": "(O)766",
+          "name": "史莱姆泥",
+          "count": 99,
+          "quality": 0
+        },
+        {
+          "id": "(O)767",
+          "name": "蝙蝠翅膀",
+          "count": 10,
+          "quality": 0
+        },
+        {
+          "id": "(O)768",
+          "name": "太阳精华",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)769",
+          "name": "虚空精华",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": "2"
+    },
+    {
+      "id": "Vault/23",
+      "name": "2500 金",
+      "reward_rule": "O 220 3",
+      "requirements": [
+        {
+          "id": "(O)-1",
+          "name": "-1",
+          "count": 2500,
+          "quality": 2500
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Vault/24",
+      "name": "5000 金",
+      "reward_rule": "O 369 30",
+      "requirements": [
+        {
+          "id": "(O)-1",
+          "name": "-1",
+          "count": 5000,
+          "quality": 5000
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Vault/25",
+      "name": "10000 金",
+      "reward_rule": "BO 9 1",
+      "requirements": [
+        {
+          "id": "(O)-1",
+          "name": "-1",
+          "count": 10000,
+          "quality": 10000
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Vault/26",
+      "name": "25000 金",
+      "reward_rule": "BO 21 1",
+      "requirements": [
+        {
+          "id": "(O)-1",
+          "name": "-1",
+          "count": 25000,
+          "quality": 25000
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Bulletin Board/31",
+      "name": "厨师",
+      "reward_rule": "O 221 3",
+      "requirements": [
+        {
+          "id": "(O)724",
+          "name": "枫糖浆",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)259",
+          "name": "蕨菜",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)430",
+          "name": "松露",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)376",
+          "name": "虞美人花",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)228",
+          "name": "生鱼寿司",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)194",
+          "name": "煎鸡蛋",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Bulletin Board/32",
+      "name": "土地研究",
+      "reward_rule": "BO 20 1",
+      "requirements": [
+        {
+          "id": "(O)422",
+          "name": "紫蘑菇",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)392",
+          "name": "鹦鹉螺",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)702",
+          "name": "鲢鱼",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)536",
+          "name": "冰封晶球",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Bulletin Board/33",
+      "name": "魔法师",
+      "reward_rule": "O 336 5",
+      "requirements": [
+        {
+          "id": "(O)725",
+          "name": "橡树树脂",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)348",
+          "name": "果酒",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)446",
+          "name": "兔子的脚",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)637",
+          "name": "石榴",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Bulletin Board/34",
+      "name": "染料",
+      "reward_rule": "BO 25 1",
+      "requirements": [
+        {
+          "id": "(O)420",
+          "name": "红蘑菇",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)397",
+          "name": "海胆",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)421",
+          "name": "向日葵",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)444",
+          "name": "鸭毛",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)62",
+          "name": "海蓝宝石",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)266",
+          "name": "红叶卷心菜",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Bulletin Board/35",
+      "name": "饲料",
+      "reward_rule": "BO 104 1",
+      "requirements": [
+        {
+          "id": "(O)262",
+          "name": "小麦",
+          "count": 10,
+          "quality": 0
+        },
+        {
+          "id": "(O)178",
+          "name": "干草",
+          "count": 10,
+          "quality": 0
+        },
+        {
+          "id": "(O)613",
+          "name": "苹果",
+          "count": 3,
+          "quality": 0
+        }
+      ],
+      "required_slots": ""
+    },
+    {
+      "id": "Abandoned Joja Mart/36",
+      "name": "失踪的",
+      "reward_rule": "",
+      "requirements": [
+        {
+          "id": "(O)348",
+          "name": "果酒",
+          "count": 1,
+          "quality": 1
+        },
+        {
+          "id": "(O)807",
+          "name": "恐龙蛋黄酱",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)74",
+          "name": "五彩碎片",
+          "count": 1,
+          "quality": 0
+        },
+        {
+          "id": "(O)454",
+          "name": "上古水果",
+          "count": 5,
+          "quality": 2
+        },
+        {
+          "id": "(O)795",
+          "name": "虚空鲑鱼",
+          "count": 1,
+          "quality": 2
+        },
+        {
+          "id": "(O)445",
+          "name": "鱼籽酱",
+          "count": 1,
+          "quality": 0
+        }
+      ],
+      "required_slots": "5"
+    }
+  ],
+  "festivals": {
+    "spring13": "Egg Festival",
+    "spring24": "Flower Dance",
+    "summer11": "Luau",
+    "summer28": "Dance of the Moonlight Jellies",
+    "fall16": "Stardew Valley Fair",
+    "fall27": "Spirit's Eve",
+    "winter8": "Festival of Ice",
+    "winter25": "Feast of the Winter Star"
+  },
+  "passive_festivals": [
+    {
+      "DisplayName": "[LocalizedText Strings\\UI:Billboard_NightMarket]",
+      "StartDay": 15,
+      "EndDay": 17,
+      "Season": 3,
+      "StartTime": 1700,
+      "EndTime": null,
+      "id": "NightMarket"
+    },
+    {
+      "DisplayName": "[LocalizedText Strings\\1_6_Strings:DesertFestival]",
+      "StartDay": 15,
+      "EndDay": 17,
+      "Season": 0,
+      "StartTime": 1000,
+      "EndTime": null,
+      "id": "DesertFestival"
+    },
+    {
+      "DisplayName": "",
+      "StartDay": 20,
+      "EndDay": 21,
+      "Season": 1,
+      "StartTime": 610,
+      "EndTime": null,
+      "id": "TroutDerby"
+    },
+    {
+      "DisplayName": "",
+      "StartDay": 12,
+      "EndDay": 13,
+      "Season": 3,
+      "StartTime": 610,
+      "EndTime": null,
+      "id": "SquidFest"
+    }
+  ]
+}

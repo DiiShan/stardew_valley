@@ -1,0 +1,464 @@
+{
+  "version": "1.6.15 build 24356",
+  "farm_animals": [
+    {
+      "id": "White Chicken",
+      "name": "白色的鸡",
+      "house": "Coop",
+      "required_building": "Coop",
+      "standard_purchase_g": 800,
+      "raw_purchase_field": 400,
+      "raw_sale_base_g": 800,
+      "mature_days": 3,
+      "produce_days": 1,
+      "normal_products": [
+        {
+          "id": "(O)176",
+          "name": "蛋",
+          "condition": null
+        }
+      ],
+      "deluxe_products": [
+        {
+          "id": "(O)174",
+          "name": "大鸡蛋",
+          "condition": null
+        }
+      ],
+      "egg_ids": [
+        "176",
+        "174"
+      ],
+      "prerequisites": "先建对应等级的鸡舍/畜棚，玛妮处购买；喂食、心情和友好度影响产出。",
+      "source_asset": "Data/FarmAnimals"
+    },
+    {
+      "id": "Brown Chicken",
+      "name": "褐色的鸡",
+      "house": "Coop",
+      "required_building": null,
+      "standard_purchase_g": 800,
+      "raw_purchase_field": -1,
+      "raw_sale_base_g": 800,
+      "mature_days": 3,
+      "produce_days": 1,
+      "normal_products": [
+        {
+          "id": "(O)180",
+          "name": "蛋",
+          "condition": null
+        }
+      ],
+      "deluxe_products": [
+        {
+          "id": "(O)182",
+          "name": "大鸡蛋",
+          "condition": null
+        }
+      ],
+      "egg_ids": [
+        "180",
+        "182"
+      ],
+      "prerequisites": "先建对应等级的鸡舍/畜棚，玛妮处购买；喂食、心情和友好度影响产出。",
+      "source_asset": "Data/FarmAnimals"
+    },
+    {
+      "id": "Blue Chicken",
+      "name": "蓝色的鸡",
+      "house": "Coop",
+      "required_building": null,
+      "standard_purchase_g": 800,
+      "raw_purchase_field": -1,
+      "raw_sale_base_g": 800,
+      "mature_days": 3,
+      "produce_days": 1,
+      "normal_products": [
+        {
+          "id": "(O)176",
+          "name": "蛋",
+          "condition": null
+        }
+      ],
+      "deluxe_products": [
+        {
+          "id": "(O)174",
+          "name": "大鸡蛋",
+          "condition": null
+        }
+      ],
+      "egg_ids": null,
+      "prerequisites": "谢恩8心事件后购买普通鸡时可随机选到；孵普通蛋不保证得到蓝鸡。",
+      "source_asset": "Data/FarmAnimals"
+    },
+    {
+      "id": "Void Chicken",
+      "name": "无力的鸡",
+      "house": "Coop",
+      "required_building": null,
+      "standard_purchase_g": null,
+      "raw_purchase_field": -1,
+      "raw_sale_base_g": 800,
+      "mature_days": 3,
+      "produce_days": 1,
+      "normal_products": [
+        {
+          "id": "(O)305",
+          "name": "虚空蛋",
+          "condition": null
+        }
+      ],
+      "deluxe_products": [],
+      "egg_ids": [
+        "305"
+      ],
+      "prerequisites": "虚空蛋通过女巫事件或科罗布斯等获得，孵化器孵化。",
+      "source_asset": "Data/FarmAnimals"
+    },
+    {
+      "id": "Golden Chicken",
+      "name": "金色的鸡",
+      "house": "Coop",
+      "required_building": null,
+      "standard_purchase_g": null,
+      "raw_purchase_field": -1,
+      "raw_sale_base_g": 800,
+      "mature_days": 3,
+      "produce_days": 1,
+      "normal_products": [
+        {
+          "id": "(O)928",
+          "name": "金蛋",
+          "condition": null
+        }
+      ],
+      "deluxe_products": [],
+      "egg_ids": [
+        "928"
+      ],
+      "prerequisites": "完美度100%后取得金蛋，再孵化。",
+      "source_asset": "Data/FarmAnimals"
+    },
+    {
+      "id": "Duck",
+      "name": "鸭",
+      "house": "Coop",
+      "required_building": "Big Coop",
+      "standard_purchase_g": 1200,
+      "raw_purchase_field": 600,
+      "raw_sale_base_g": 1200,
+      "mature_days": 5,
+      "produce_days": 2,
+      "normal_products": [
+        {
+          "id": "(O)442",
+          "name": "鸭蛋",
+          "condition": null
+        }
+      ],
+      "deluxe_products": [
+        {
+          "id": "(O)444",
+          "name": "鸭毛",
+          "condition": null
+        }
+      ],
+      "egg_ids": [
+        "442"
+      ],
+      "prerequisites": "先建对应等级的鸡舍/畜棚，玛妮处购买；喂食、心情和友好度影响产出。",
+      "source_asset": "Data/FarmAnimals"
+    },
+    {
+      "id": "Rabbit",
+      "name": "兔子",
+      "house": "Coop",
+      "required_building": "Deluxe Coop",
+      "standard_purchase_g": 8000,
+      "raw_purchase_field": 4000,
+      "raw_sale_base_g": 8000,
+      "mature_days": 6,
+      "produce_days": 4,
+      "normal_products": [
+        {
+          "id": "(O)440",
+          "name": "动物毛",
+          "condition": null
+        }
+      ],
+      "deluxe_products": [
+        {
+          "id": "(O)446",
+          "name": "兔子的脚",
+          "condition": null
+        }
+      ],
+      "egg_ids": null,
+      "prerequisites": "先建对应等级的鸡舍/畜棚，玛妮处购买；喂食、心情和友好度影响产出。",
+      "source_asset": "Data/FarmAnimals"
+    },
+    {
+      "id": "Dinosaur",
+      "name": "恐龙",
+      "house": "Coop",
+      "required_building": null,
+      "standard_purchase_g": null,
+      "raw_purchase_field": -1,
+      "raw_sale_base_g": 1000,
+      "mature_days": 0,
+      "produce_days": 7,
+      "normal_products": [
+        {
+          "id": "(O)107",
+          "name": "恐龙蛋",
+          "condition": null
+        }
+      ],
+      "deluxe_products": [],
+      "egg_ids": [
+        "107"
+      ],
+      "prerequisites": "取得恐龙蛋，在鸡舍孵化器孵化。",
+      "source_asset": "Data/FarmAnimals"
+    },
+    {
+      "id": "White Cow",
+      "name": "白色的牛",
+      "house": "Barn",
+      "required_building": "Barn",
+      "standard_purchase_g": 1500,
+      "raw_purchase_field": 750,
+      "raw_sale_base_g": 1500,
+      "mature_days": 5,
+      "produce_days": 1,
+      "normal_products": [
+        {
+          "id": "(O)184",
+          "name": "牛奶",
+          "condition": null
+        }
+      ],
+      "deluxe_products": [
+        {
+          "id": "(O)186",
+          "name": "大壶牛奶",
+          "condition": null
+        }
+      ],
+      "egg_ids": null,
+      "prerequisites": "先建对应等级的鸡舍/畜棚，玛妮处购买；喂食、心情和友好度影响产出。",
+      "source_asset": "Data/FarmAnimals"
+    },
+    {
+      "id": "Brown Cow",
+      "name": "褐色的牛",
+      "house": "Barn",
+      "required_building": null,
+      "standard_purchase_g": 1500,
+      "raw_purchase_field": -1,
+      "raw_sale_base_g": 1500,
+      "mature_days": 5,
+      "produce_days": 1,
+      "normal_products": [
+        {
+          "id": "(O)184",
+          "name": "牛奶",
+          "condition": null
+        }
+      ],
+      "deluxe_products": [
+        {
+          "id": "(O)186",
+          "name": "大壶牛奶",
+          "condition": null
+        }
+      ],
+      "egg_ids": null,
+      "prerequisites": "先建对应等级的鸡舍/畜棚，玛妮处购买；喂食、心情和友好度影响产出。",
+      "source_asset": "Data/FarmAnimals"
+    },
+    {
+      "id": "Goat",
+      "name": "山羊",
+      "house": "Barn",
+      "required_building": "Big Barn",
+      "standard_purchase_g": 4000,
+      "raw_purchase_field": 2000,
+      "raw_sale_base_g": 4000,
+      "mature_days": 5,
+      "produce_days": 2,
+      "normal_products": [
+        {
+          "id": "(O)436",
+          "name": "羊奶",
+          "condition": null
+        }
+      ],
+      "deluxe_products": [
+        {
+          "id": "(O)438",
+          "name": "大瓶羊奶",
+          "condition": null
+        }
+      ],
+      "egg_ids": null,
+      "prerequisites": "先建对应等级的鸡舍/畜棚，玛妮处购买；喂食、心情和友好度影响产出。",
+      "source_asset": "Data/FarmAnimals"
+    },
+    {
+      "id": "Sheep",
+      "name": "绵羊",
+      "house": "Barn",
+      "required_building": "Deluxe Barn",
+      "standard_purchase_g": 8000,
+      "raw_purchase_field": 4000,
+      "raw_sale_base_g": 8000,
+      "mature_days": 4,
+      "produce_days": 3,
+      "normal_products": [
+        {
+          "id": "(O)440",
+          "name": "动物毛",
+          "condition": null
+        }
+      ],
+      "deluxe_products": [],
+      "egg_ids": null,
+      "prerequisites": "先建对应等级的鸡舍/畜棚，玛妮处购买；喂食、心情和友好度影响产出。",
+      "source_asset": "Data/FarmAnimals"
+    },
+    {
+      "id": "Pig",
+      "name": "猪",
+      "house": "Barn",
+      "required_building": "Deluxe Barn",
+      "standard_purchase_g": 16000,
+      "raw_purchase_field": 8000,
+      "raw_sale_base_g": 16000,
+      "mature_days": 10,
+      "produce_days": 1,
+      "normal_products": [
+        {
+          "id": "(O)430",
+          "name": "松露",
+          "condition": null
+        }
+      ],
+      "deluxe_products": [],
+      "egg_ids": null,
+      "prerequisites": "豪华畜棚；成年后户外寻松露，冬季、雨天及无可用地面时不能按普通日产保证。",
+      "source_asset": "Data/FarmAnimals"
+    },
+    {
+      "id": "Ostrich",
+      "name": "鸵鸟",
+      "house": "Barn",
+      "required_building": "Barn",
+      "standard_purchase_g": null,
+      "raw_purchase_field": -1,
+      "raw_sale_base_g": 16000,
+      "mature_days": 7,
+      "produce_days": 7,
+      "normal_products": [
+        {
+          "id": "(O)289",
+          "name": "鸵鸟蛋",
+          "condition": null
+        }
+      ],
+      "deluxe_products": [],
+      "egg_ids": [
+        "289"
+      ],
+      "prerequisites": "姜岛教授收藏奖励解锁鸵鸟孵化器；获得鸵鸟蛋并在畜棚孵化。",
+      "source_asset": "Data/FarmAnimals"
+    }
+  ],
+  "pet_breeds": [
+    {
+      "kind": "Cat",
+      "breed_id": "0",
+      "adoption_g": 40000,
+      "choose_at_start": true,
+      "adopt_from_marnie": true
+    },
+    {
+      "kind": "Cat",
+      "breed_id": "1",
+      "adoption_g": 40000,
+      "choose_at_start": true,
+      "adopt_from_marnie": true
+    },
+    {
+      "kind": "Cat",
+      "breed_id": "2",
+      "adoption_g": 40000,
+      "choose_at_start": true,
+      "adopt_from_marnie": true
+    },
+    {
+      "kind": "Cat",
+      "breed_id": "3",
+      "adoption_g": 40000,
+      "choose_at_start": true,
+      "adopt_from_marnie": true
+    },
+    {
+      "kind": "Cat",
+      "breed_id": "4",
+      "adoption_g": 40000,
+      "choose_at_start": true,
+      "adopt_from_marnie": true
+    },
+    {
+      "kind": "Dog",
+      "breed_id": "0",
+      "adoption_g": 40000,
+      "choose_at_start": true,
+      "adopt_from_marnie": true
+    },
+    {
+      "kind": "Dog",
+      "breed_id": "1",
+      "adoption_g": 40000,
+      "choose_at_start": true,
+      "adopt_from_marnie": true
+    },
+    {
+      "kind": "Dog",
+      "breed_id": "2",
+      "adoption_g": 40000,
+      "choose_at_start": true,
+      "adopt_from_marnie": true
+    },
+    {
+      "kind": "Dog",
+      "breed_id": "3",
+      "adoption_g": 40000,
+      "choose_at_start": true,
+      "adopt_from_marnie": true
+    },
+    {
+      "kind": "Dog",
+      "breed_id": "4",
+      "adoption_g": 40000,
+      "choose_at_start": true,
+      "adopt_from_marnie": true
+    },
+    {
+      "kind": "Turtle",
+      "breed_id": "0",
+      "adoption_g": 60000,
+      "choose_at_start": false,
+      "adopt_from_marnie": true
+    },
+    {
+      "kind": "Turtle",
+      "breed_id": "1",
+      "adoption_g": 500000,
+      "choose_at_start": false,
+      "adopt_from_marnie": true
+    }
+  ],
+  "horse_note": "马由马厩附带，不在农场动物商品表中；宠物与马不是农畜日产经济模型。"
+}
