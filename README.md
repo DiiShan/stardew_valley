@@ -4,10 +4,13 @@
 
 ## 阅读入口
 
-- [完整方案说明](docs/current-plan.md)：目标、状态、资金去向、系统分层、阶段路线、原料供给、日常执行、监控恢复和验收。
+- [酿酒致富方案 V2（待实施升级建议）](docs/wine-profit-plan-v2.md)：以尽早回款和长期净现金增长为目标，补充献祭季节审计、双线生产、动态扩桶、资源预留、跨季重播预算和实施/回归测试清单。
+- [原完整方案说明](docs/current-plan.md)：目标、状态、资金去向、系统分层、阶段路线、原料供给、日常执行、监控恢复和验收。
 - [生产路线图源文件](docs/diagrams/production-roadmap.mmd)
 - [日常执行图源文件](docs/diagrams/daily-operation.mmd)
 - [监控与安全恢复图源文件](docs/diagrams/monitor-and-recovery.mmd)
+
+V2为基于原快照的策略审查，不代表已部署控制器、已恢复游戏或已通过实机验证。原方案与原流程图保留，游戏控制权和暂停授权不因文档变更而改变。
 
 ## 当前阶段
 
